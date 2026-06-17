@@ -21,13 +21,16 @@ def fetch_masters_json(year):
             response = requests.get(url, headers=HEADERS, timeout=10)
 
             if response.status_code == 200:
-                data = response.json()
+                try:
+                    data = response.json()
+                except:
+                    print("Received non‑JSON response, retrying...")
+                    time.sleep(2)
+                    continue
 
-                # Validate structure
-                if "data" in data and "player" in data["data"]:
-                    return data
-                else:
-                    print("Feed returned but missing player data, retrying...")
+                # Even if player data is missing, return what we got
+                return data
+
             else:
                 print(f"HTTP {response.status_code}, retrying...")
 
@@ -36,7 +39,8 @@ def fetch_masters_json(year):
 
         time.sleep(2)
 
-    raise Exception("Failed to fetch Masters leaderboard after multiple attempts.")
+    # If all retries fail, return an empty structure
+    return {"error": "Failed to fetch Masters leaderboard"}
 
 def save_json(data, filename):
     with open(filename, "w") as f:
