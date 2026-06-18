@@ -1,0 +1,1905 @@
+
+C:\Users\Simon\pga-leaderboard>.\push.bat
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+^CTerminate batch job (Y/N)? y
+
+C:\Users\Simon\pga-leaderboard>DIr
+ Volume in drive C has no label.
+ Volume Serial Number is 1AA5-0ED4
+
+ Directory of C:\Users\Simon\pga-leaderboard
+
+15/06/2026  18:05    <DIR>          .
+15/06/2026  18:05    <DIR>          ..
+15/06/2026  10:30               412 fetch.py
+15/06/2026  17:47             1,460 fetch_Open.py
+15/06/2026  18:06                81 Leaderboard.json
+15/06/2026  18:03               127 push.bat
+               4 File(s)          2,080 bytes
+               2 Dir(s)  612,903,432,192 bytes free
+
+C:\Users\Simon\pga-leaderboard>
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>git --version
+git version 2.54.0.windows.1
+
+C:\Users\Simon>
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>git --version
+git version 2.54.0.windows.1
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>.\push.bat
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>git --version
+git version 2.54.0.windows.1
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>.\push.bat
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+^CTerminate batch job (Y/N)? y
+
+C:\Users\Simon\pga-leaderboard>git init
+Initialized empty Git repository in C:/Users/Simon/pga-leaderboard/.git/
+
+C:\Users\Simon\pga-leaderboard>git remote add origin https://github.com/vodkabarlover-png/pga-leaderboard.git
+
+C:\Users\Simon\pga-leaderboard>git add .
+
+C:\Users\Simon\pga-leaderboard>git commit -m "Initial commit"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Simon@DESKTOP-DU21QRH.(none)')
+
+C:\Users\Simon\pga-leaderboard>
+
+git config --global user.name "vodkabarlover-png"
+git config --global user.email "vodkabarlover@gmail.com"
+
+cd C:\Users\Simon\pga-leaderboard
+git init
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>git config --global user.name "vodkabarlover-png"
+
+C:\Users\Simon\pga-leaderboard>git config --global user.email "vodkabarlover@gmail.com"git config --global user.name
+error: no action specified
+
+C:\Users\Simon\pga-leaderboard>git config --global user.email
+your-email@example.com
+
+C:\Users\Simon\pga-leaderboard>
+
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>git config --global user.name "vodkabarlover-png"
+
+C:\Users\Simon\pga-leaderboard>git config --global user.email "vodkabarlover@gmail.com"git config --global user.name
+error: no action specified
+
+C:\Users\Simon\pga-leaderboard>git config --global user.email
+your-email@example.com
+
+C:\Users\Simon\pga-leaderboard>git config --global user.email "vodkabarlover@gmail.com"
+
+C:\Users\Simon\pga-leaderboard>git config --global user.email
+vodkabarlover@gmail.com
+
+C:\Users\Simon\pga-leaderboard>git add .
+
+C:\Users\Simon\pga-leaderboard>git commit -m "Initial commit"
+[master (root-commit) 96eada5] Initial commit
+ 4 files changed, 78 insertions(+)
+ create mode 100644 Leaderboard.json
+ create mode 100644 fetch.py
+ create mode 100644 fetch_Open.py
+ create mode 100644 push.bat
+
+C:\Users\Simon\pga-leaderboard>git branch -M main
+
+C:\Users\Simon\pga-leaderboard>git push -u origin main
+info: please complete authentication in your browser...
+remote: Repository not found.
+fatal: repository 'https://github.com/vodkabarlover-png/pga-leaderboard.git/' not found
+
+C:\Users\Simon\pga-leaderboard>
+
+git remote remove origin
+git remote add origin https://github.com/vodkabarlover-png/pga-leaderboard.git
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>C:\Users\Simon\pga-leaderboard
+'C:\Users\Simon\pga-leaderboard' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>git remote -v
+origin  https://github.com/vodkabarlover-png/pga-leaderboard.git (fetch)
+origin  https://github.com/vodkabarlover-png/pga-leaderboard.git (push)
+
+C:\Users\Simon\pga-leaderboard>.\push.bat
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+^CTerminate batch job (Y/N)? y
+
+C:\Users\Simon\pga-leaderboard>cd C:\Users\Simon\pga-leaderboard
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>git pull origin main --no-edit
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>git pull origin main --no-edit
+From https://github.com/vodkabarlover-png/pga-leaderboard
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+C:\Users\Simon\pga-leaderboard>
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>git pull origin main --no-edit
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>git pull origin main --no-edit
+From https://github.com/vodkabarlover-png/pga-leaderboard
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+C:\Users\Simon\pga-leaderboard>.\push.bat
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+^CTerminate batch job (Y/N)? y
+
+C:\Users\Simon\pga-leaderboard>fetch first
+'fetch' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>npm install -g wrangler
+
+changed 34 packages in 1m
+
+6 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\Simon\pga-leaderboard>wrangler login
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Attempting to login via OAuth...
+Opening a link in your default browser: https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20ai%3Awrite%20ai-search%3Awrite%20ai-search%3Arun%20websearch.run%20agent-memory%3Awrite%20queues%3Awrite%20pipelines%3Awrite%20secrets_store%3Awrite%20artifacts%3Awrite%20flagship%3Awrite%20containers%3Awrite%20cloudchamber%3Awrite%20connectivity%3Aadmin%20email_routing%3Awrite%20email_sending%3Awrite%20browser%3Awrite%20offline_access&state=g_eHbLxr49MKdOYIu~0hRoHMqRIXYBOt&code_challenge=Cq3AmYDPKiH-Psvo7kxIrQoqR4ZXl_Zdy8vHroI1HLo&code_challenge_method=S256
+Successfully logged in.
+
+C:\Users\Simon\pga-leaderboard>C:\Users\Simon\pga-worker
+'C:\Users\Simon\pga-worker' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>cd C:\Users\Simon
+
+C:\Users\Simon>wrangler init pga-worker
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+🌀 Running `npm create cloudflare pga-worker --`...
+
+> npx
+> create-cloudflare pga-worker
+
+
+
+👋 Welcome to create-cloudflare v2.70.2!
+🧡 Let's get started.
+📊 Cloudflare collects telemetry about your usage of Create-Cloudflare.
+
+Learn more at: https://github.com/cloudflare/workers-sdk/blob/main/packages/create-cloudflare/telemetry.md
+
+
+╭ Create an application with Cloudflare Step 1 of 3
+│
+├ In which directory do you want to create your application?
+│ dir ./pga-worker
+│
+├ What would you like to start with?
+│ category Hello World example
+│
+╰ Which template would you like to use?
+├ Which template would you like to use?
+│ type Worker only
+│
+├ Which language do you want to use?
+│ lang JavaScript
+│
+├ Copying template files
+│ files copied to project directory
+│
+├ Updating name in `package.json`
+│ updated `package.json`
+│
+╰ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudf├ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudflare APIs?
+│ no agents
+│
+╰ Application created
+
+╭ Configuring your application for Cloudflare Step 2 of 3
+│
+├ Retrieving current workerd compatibility date
+│ compatibility date 2026-06-15
+│
+├ Do you want to use git for version control?
+│ no git
+│
+╰ Application configured
+
+╭ Deploy with Cloudflare Step 3 of 3
+│
+╰ Do you want to deploy your application?
+╰ Done u want to deploy your application?
+│ no deploy via `npm run deploy`
+│
+🎉  SUCCESS  Application created successfully!
+
+💻 Continue Developing
+Change directories: cd pga-worker
+Deploy: npm run deploy
+
+📖 Explore Documentation
+https://developers.cloudflare.com/workers
+
+🐛 Report an Issue
+https://github.com/cloudflare/workers-sdk/issues/new/choose
+
+💬 Join our Community
+https://discord.cloudflare.com
+
+
+
+
+C:\Users\Simon>cd pga-worker
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+
+X [ERROR] Build failed with 1 error:
+
+  X [ERROR] Expected "*/" to terminate
+  multi-line comment
+
+      src/index.js:25:2:
+        25 │ };
+           ╵   ^
+
+    The multi-line comment starts here:
+
+      src/index.js:1:0:
+        1 │ /**
+          ╵ ~~
+
+
+
+
+🪵  Logs were written to "C:\Users\Simon\AppData\Roaming\xdg.config\.wrangler\lo
+gs\wrangler-2026-06-15_22-41-51_141.log"
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Total Upload: 0.64 KiB / gzip: 0.36 KiB
+Worker Startup Time: 7 ms
+Uploaded pga-worker (6.71 sec)
+Deployed pga-worker triggers (6.17 sec)
+  https://pga-worker.vodkabarlover.workers.dev
+Current Version ID: 7077412f-6168-41ca-92f1-ca37dc6b378e
+
+C:\Users\Simon\pga-worker>
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>git pull origin main --no-edit
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>git pull origin main --no-edit
+From https://github.com/vodkabarlover-png/pga-leaderboard
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+C:\Users\Simon\pga-leaderboard>.\push.bat
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+^CTerminate batch job (Y/N)? y
+
+C:\Users\Simon\pga-leaderboard>fetch first
+'fetch' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>npm install -g wrangler
+
+changed 34 packages in 1m
+
+6 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\Simon\pga-leaderboard>wrangler login
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Attempting to login via OAuth...
+Opening a link in your default browser: https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20ai%3Awrite%20ai-search%3Awrite%20ai-search%3Arun%20websearch.run%20agent-memory%3Awrite%20queues%3Awrite%20pipelines%3Awrite%20secrets_store%3Awrite%20artifacts%3Awrite%20flagship%3Awrite%20containers%3Awrite%20cloudchamber%3Awrite%20connectivity%3Aadmin%20email_routing%3Awrite%20email_sending%3Awrite%20browser%3Awrite%20offline_access&state=g_eHbLxr49MKdOYIu~0hRoHMqRIXYBOt&code_challenge=Cq3AmYDPKiH-Psvo7kxIrQoqR4ZXl_Zdy8vHroI1HLo&code_challenge_method=S256
+Successfully logged in.
+
+C:\Users\Simon\pga-leaderboard>C:\Users\Simon\pga-worker
+'C:\Users\Simon\pga-worker' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>cd C:\Users\Simon
+
+C:\Users\Simon>wrangler init pga-worker
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+🌀 Running `npm create cloudflare pga-worker --`...
+
+> npx
+> create-cloudflare pga-worker
+
+
+
+👋 Welcome to create-cloudflare v2.70.2!
+🧡 Let's get started.
+📊 Cloudflare collects telemetry about your usage of Create-Cloudflare.
+
+Learn more at: https://github.com/cloudflare/workers-sdk/blob/main/packages/create-cloudflare/telemetry.md
+
+
+╭ Create an application with Cloudflare Step 1 of 3
+│
+├ In which directory do you want to create your application?
+│ dir ./pga-worker
+│
+├ What would you like to start with?
+│ category Hello World example
+│
+╰ Which template would you like to use?
+├ Which template would you like to use?
+│ type Worker only
+│
+├ Which language do you want to use?
+│ lang JavaScript
+│
+├ Copying template files
+│ files copied to project directory
+│
+├ Updating name in `package.json`
+│ updated `package.json`
+│
+╰ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudf├ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudflare APIs?
+│ no agents
+│
+╰ Application created
+
+╭ Configuring your application for Cloudflare Step 2 of 3
+│
+├ Retrieving current workerd compatibility date
+│ compatibility date 2026-06-15
+│
+├ Do you want to use git for version control?
+│ no git
+│
+╰ Application configured
+
+╭ Deploy with Cloudflare Step 3 of 3
+│
+╰ Do you want to deploy your application?
+╰ Done u want to deploy your application?
+│ no deploy via `npm run deploy`
+│
+🎉  SUCCESS  Application created successfully!
+
+💻 Continue Developing
+Change directories: cd pga-worker
+Deploy: npm run deploy
+
+📖 Explore Documentation
+https://developers.cloudflare.com/workers
+
+🐛 Report an Issue
+https://github.com/cloudflare/workers-sdk/issues/new/choose
+
+💬 Join our Community
+https://discord.cloudflare.com
+
+
+
+
+C:\Users\Simon>cd pga-worker
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+
+X [ERROR] Build failed with 1 error:
+
+  X [ERROR] Expected "*/" to terminate
+  multi-line comment
+
+      src/index.js:25:2:
+        25 │ };
+           ╵   ^
+
+    The multi-line comment starts here:
+
+      src/index.js:1:0:
+        1 │ /**
+          ╵ ~~
+
+
+
+
+🪵  Logs were written to "C:\Users\Simon\AppData\Roaming\xdg.config\.wrangler\lo
+gs\wrangler-2026-06-15_22-41-51_141.log"
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Total Upload: 0.64 KiB / gzip: 0.36 KiB
+Worker Startup Time: 7 ms
+Uploaded pga-worker (6.71 sec)
+Deployed pga-worker triggers (6.17 sec)
+  https://pga-worker.vodkabarlover.workers.dev
+Current Version ID: 7077412f-6168-41ca-92f1-ca37dc6b378e
+
+C:\Users\Simon\pga-worker>python fetch_open.py
+C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\python.exe: can't open file 'C:\\Users\\Simon\\pga-worker\\fetch_open.py': [Errno 2] No such file or directory
+
+C:\Users\Simon\pga-worker>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>python fetch_open.py
+Fetching The Open leaderboard...
+Error: Expecting value: line 3 column 1 (char 4)
+
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>git pull origin main --no-edit
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>git pull origin main --no-edit
+From https://github.com/vodkabarlover-png/pga-leaderboard
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+C:\Users\Simon\pga-leaderboard>.\push.bat
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+^CTerminate batch job (Y/N)? y
+
+C:\Users\Simon\pga-leaderboard>fetch first
+'fetch' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>npm install -g wrangler
+
+changed 34 packages in 1m
+
+6 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\Simon\pga-leaderboard>wrangler login
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Attempting to login via OAuth...
+Opening a link in your default browser: https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20ai%3Awrite%20ai-search%3Awrite%20ai-search%3Arun%20websearch.run%20agent-memory%3Awrite%20queues%3Awrite%20pipelines%3Awrite%20secrets_store%3Awrite%20artifacts%3Awrite%20flagship%3Awrite%20containers%3Awrite%20cloudchamber%3Awrite%20connectivity%3Aadmin%20email_routing%3Awrite%20email_sending%3Awrite%20browser%3Awrite%20offline_access&state=g_eHbLxr49MKdOYIu~0hRoHMqRIXYBOt&code_challenge=Cq3AmYDPKiH-Psvo7kxIrQoqR4ZXl_Zdy8vHroI1HLo&code_challenge_method=S256
+Successfully logged in.
+
+C:\Users\Simon\pga-leaderboard>C:\Users\Simon\pga-worker
+'C:\Users\Simon\pga-worker' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>cd C:\Users\Simon
+
+C:\Users\Simon>wrangler init pga-worker
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+🌀 Running `npm create cloudflare pga-worker --`...
+
+> npx
+> create-cloudflare pga-worker
+
+
+
+👋 Welcome to create-cloudflare v2.70.2!
+🧡 Let's get started.
+📊 Cloudflare collects telemetry about your usage of Create-Cloudflare.
+
+Learn more at: https://github.com/cloudflare/workers-sdk/blob/main/packages/create-cloudflare/telemetry.md
+
+
+╭ Create an application with Cloudflare Step 1 of 3
+│
+├ In which directory do you want to create your application?
+│ dir ./pga-worker
+│
+├ What would you like to start with?
+│ category Hello World example
+│
+╰ Which template would you like to use?
+├ Which template would you like to use?
+│ type Worker only
+│
+├ Which language do you want to use?
+│ lang JavaScript
+│
+├ Copying template files
+│ files copied to project directory
+│
+├ Updating name in `package.json`
+│ updated `package.json`
+│
+╰ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudf├ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudflare APIs?
+│ no agents
+│
+╰ Application created
+
+╭ Configuring your application for Cloudflare Step 2 of 3
+│
+├ Retrieving current workerd compatibility date
+│ compatibility date 2026-06-15
+│
+├ Do you want to use git for version control?
+│ no git
+│
+╰ Application configured
+
+╭ Deploy with Cloudflare Step 3 of 3
+│
+╰ Do you want to deploy your application?
+╰ Done u want to deploy your application?
+│ no deploy via `npm run deploy`
+│
+🎉  SUCCESS  Application created successfully!
+
+💻 Continue Developing
+Change directories: cd pga-worker
+Deploy: npm run deploy
+
+📖 Explore Documentation
+https://developers.cloudflare.com/workers
+
+🐛 Report an Issue
+https://github.com/cloudflare/workers-sdk/issues/new/choose
+
+💬 Join our Community
+https://discord.cloudflare.com
+
+
+
+
+C:\Users\Simon>cd pga-worker
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+
+X [ERROR] Build failed with 1 error:
+
+  X [ERROR] Expected "*/" to terminate
+  multi-line comment
+
+      src/index.js:25:2:
+        25 │ };
+           ╵   ^
+
+    The multi-line comment starts here:
+
+      src/index.js:1:0:
+        1 │ /**
+          ╵ ~~
+
+
+
+
+🪵  Logs were written to "C:\Users\Simon\AppData\Roaming\xdg.config\.wrangler\lo
+gs\wrangler-2026-06-15_22-41-51_141.log"
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Total Upload: 0.64 KiB / gzip: 0.36 KiB
+Worker Startup Time: 7 ms
+Uploaded pga-worker (6.71 sec)
+Deployed pga-worker triggers (6.17 sec)
+  https://pga-worker.vodkabarlover.workers.dev
+Current Version ID: 7077412f-6168-41ca-92f1-ca37dc6b378e
+
+C:\Users\Simon\pga-worker>python fetch_open.py
+C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\python.exe: can't open file 'C:\\Users\\Simon\\pga-worker\\fetch_open.py': [Errno 2] No such file or directory
+
+C:\Users\Simon\pga-worker>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>python fetch_open.py
+Fetching The Open leaderboard...
+Error: Expecting value: line 3 column 1 (char 4)
+Traceback (most recent call last):
+  File "C:\Users\Simon\pga-leaderboard\fetch_open.py", line 23, in <module>
+    time.sleep(300)
+    ~~~~~~~~~~^^^^^
+KeyboardInterrupt
+^C
+C:\Users\Simon\pga-leaderboard>python test_api.py
+Status: 404
+Content:
+
+<!doctype html>
+<html lang="en" class="randa-html can-hover">
+<head>
+
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="format-detection" content="telephone=no" />
+<meta name="google-site-verification" content="FSPLcs-pTgzyuRl6nAac6col7bzzAmftX80gIZNsWgI" />
+<meta name="facebook-domain-verification" content="wiy4ryzb71kszpnvpy2p0nqze36xk3" />
+
+<ti
+
+C:\Users\Simon\pga-leaderboard>
+
+python - <<EOF
+import requests
+r = requests.get("https://feeds.theopen.com/leaderboard/leaderboard.json")
+print("Status:", r.status_code)
+print("Preview:", r.text[:500])
+EOF
+
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>git pull origin main --no-edit
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>git pull origin main --no-edit
+From https://github.com/vodkabarlover-png/pga-leaderboard
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+C:\Users\Simon\pga-leaderboard>.\push.bat
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+^CTerminate batch job (Y/N)? y
+
+C:\Users\Simon\pga-leaderboard>fetch first
+'fetch' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>npm install -g wrangler
+
+changed 34 packages in 1m
+
+6 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\Simon\pga-leaderboard>wrangler login
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Attempting to login via OAuth...
+Opening a link in your default browser: https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20ai%3Awrite%20ai-search%3Awrite%20ai-search%3Arun%20websearch.run%20agent-memory%3Awrite%20queues%3Awrite%20pipelines%3Awrite%20secrets_store%3Awrite%20artifacts%3Awrite%20flagship%3Awrite%20containers%3Awrite%20cloudchamber%3Awrite%20connectivity%3Aadmin%20email_routing%3Awrite%20email_sending%3Awrite%20browser%3Awrite%20offline_access&state=g_eHbLxr49MKdOYIu~0hRoHMqRIXYBOt&code_challenge=Cq3AmYDPKiH-Psvo7kxIrQoqR4ZXl_Zdy8vHroI1HLo&code_challenge_method=S256
+Successfully logged in.
+
+C:\Users\Simon\pga-leaderboard>C:\Users\Simon\pga-worker
+'C:\Users\Simon\pga-worker' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>cd C:\Users\Simon
+
+C:\Users\Simon>wrangler init pga-worker
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+🌀 Running `npm create cloudflare pga-worker --`...
+
+> npx
+> create-cloudflare pga-worker
+
+
+
+👋 Welcome to create-cloudflare v2.70.2!
+🧡 Let's get started.
+📊 Cloudflare collects telemetry about your usage of Create-Cloudflare.
+
+Learn more at: https://github.com/cloudflare/workers-sdk/blob/main/packages/create-cloudflare/telemetry.md
+
+
+╭ Create an application with Cloudflare Step 1 of 3
+│
+├ In which directory do you want to create your application?
+│ dir ./pga-worker
+│
+├ What would you like to start with?
+│ category Hello World example
+│
+╰ Which template would you like to use?
+├ Which template would you like to use?
+│ type Worker only
+│
+├ Which language do you want to use?
+│ lang JavaScript
+│
+├ Copying template files
+│ files copied to project directory
+│
+├ Updating name in `package.json`
+│ updated `package.json`
+│
+╰ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudf├ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudflare APIs?
+│ no agents
+│
+╰ Application created
+
+╭ Configuring your application for Cloudflare Step 2 of 3
+│
+├ Retrieving current workerd compatibility date
+│ compatibility date 2026-06-15
+│
+├ Do you want to use git for version control?
+│ no git
+│
+╰ Application configured
+
+╭ Deploy with Cloudflare Step 3 of 3
+│
+╰ Do you want to deploy your application?
+╰ Done u want to deploy your application?
+│ no deploy via `npm run deploy`
+│
+🎉  SUCCESS  Application created successfully!
+
+💻 Continue Developing
+Change directories: cd pga-worker
+Deploy: npm run deploy
+
+📖 Explore Documentation
+https://developers.cloudflare.com/workers
+
+🐛 Report an Issue
+https://github.com/cloudflare/workers-sdk/issues/new/choose
+
+💬 Join our Community
+https://discord.cloudflare.com
+
+
+
+
+C:\Users\Simon>cd pga-worker
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+
+X [ERROR] Build failed with 1 error:
+
+  X [ERROR] Expected "*/" to terminate
+  multi-line comment
+
+      src/index.js:25:2:
+        25 │ };
+           ╵   ^
+
+    The multi-line comment starts here:
+
+      src/index.js:1:0:
+        1 │ /**
+          ╵ ~~
+
+
+
+
+🪵  Logs were written to "C:\Users\Simon\AppData\Roaming\xdg.config\.wrangler\lo
+gs\wrangler-2026-06-15_22-41-51_141.log"
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Total Upload: 0.64 KiB / gzip: 0.36 KiB
+Worker Startup Time: 7 ms
+Uploaded pga-worker (6.71 sec)
+Deployed pga-worker triggers (6.17 sec)
+  https://pga-worker.vodkabarlover.workers.dev
+Current Version ID: 7077412f-6168-41ca-92f1-ca37dc6b378e
+
+C:\Users\Simon\pga-worker>python fetch_open.py
+C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\python.exe: can't open file 'C:\\Users\\Simon\\pga-worker\\fetch_open.py': [Errno 2] No such file or directory
+
+C:\Users\Simon\pga-worker>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>python fetch_open.py
+Fetching The Open leaderboard...
+Error: Expecting value: line 3 column 1 (char 4)
+Traceback (most recent call last):
+  File "C:\Users\Simon\pga-leaderboard\fetch_open.py", line 23, in <module>
+    time.sleep(300)
+    ~~~~~~~~~~^^^^^
+KeyboardInterrupt
+^C
+C:\Users\Simon\pga-leaderboard>python test_api.py
+Status: 404
+Content:
+
+<!doctype html>
+<html lang="en" class="randa-html can-hover">
+<head>
+
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="format-detection" content="telephone=no" />
+<meta name="google-site-verification" content="FSPLcs-pTgzyuRl6nAac6col7bzzAmftX80gIZNsWgI" />
+<meta name="facebook-domain-verification" content="wiy4ryzb71kszpnvpy2p0nqze36xk3" />
+
+<ti
+
+C:\Users\Simon\pga-leaderboard>python - <<EOF
+<< was unexpected at this time.
+
+C:\Users\Simon\pga-leaderboard>import requests
+'import' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>r = requests.get("https://feeds.theopen.com/leaderboard/leaderboard.json")
+'r' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>print("Status:", r.status_code)
+Unable to initialize device PRN
+
+C:\Users\Simon\pga-leaderboard>print("Preview:", r.text[:500])
+Unable to initialize device PRN
+
+C:\Users\Simon\pga-leaderboard>EOF
+'EOF' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>
+
+
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>git pull origin main --no-edit
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>git pull origin main --no-edit
+From https://github.com/vodkabarlover-png/pga-leaderboard
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+C:\Users\Simon\pga-leaderboard>.\push.bat
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+^CTerminate batch job (Y/N)? y
+
+C:\Users\Simon\pga-leaderboard>fetch first
+'fetch' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>npm install -g wrangler
+
+changed 34 packages in 1m
+
+6 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\Simon\pga-leaderboard>wrangler login
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Attempting to login via OAuth...
+Opening a link in your default browser: https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20ai%3Awrite%20ai-search%3Awrite%20ai-search%3Arun%20websearch.run%20agent-memory%3Awrite%20queues%3Awrite%20pipelines%3Awrite%20secrets_store%3Awrite%20artifacts%3Awrite%20flagship%3Awrite%20containers%3Awrite%20cloudchamber%3Awrite%20connectivity%3Aadmin%20email_routing%3Awrite%20email_sending%3Awrite%20browser%3Awrite%20offline_access&state=g_eHbLxr49MKdOYIu~0hRoHMqRIXYBOt&code_challenge=Cq3AmYDPKiH-Psvo7kxIrQoqR4ZXl_Zdy8vHroI1HLo&code_challenge_method=S256
+Successfully logged in.
+
+C:\Users\Simon\pga-leaderboard>C:\Users\Simon\pga-worker
+'C:\Users\Simon\pga-worker' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>cd C:\Users\Simon
+
+C:\Users\Simon>wrangler init pga-worker
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+🌀 Running `npm create cloudflare pga-worker --`...
+
+> npx
+> create-cloudflare pga-worker
+
+
+
+👋 Welcome to create-cloudflare v2.70.2!
+🧡 Let's get started.
+📊 Cloudflare collects telemetry about your usage of Create-Cloudflare.
+
+Learn more at: https://github.com/cloudflare/workers-sdk/blob/main/packages/create-cloudflare/telemetry.md
+
+
+╭ Create an application with Cloudflare Step 1 of 3
+│
+├ In which directory do you want to create your application?
+│ dir ./pga-worker
+│
+├ What would you like to start with?
+│ category Hello World example
+│
+╰ Which template would you like to use?
+├ Which template would you like to use?
+│ type Worker only
+│
+├ Which language do you want to use?
+│ lang JavaScript
+│
+├ Copying template files
+│ files copied to project directory
+│
+├ Updating name in `package.json`
+│ updated `package.json`
+│
+╰ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudf├ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudflare APIs?
+│ no agents
+│
+╰ Application created
+
+╭ Configuring your application for Cloudflare Step 2 of 3
+│
+├ Retrieving current workerd compatibility date
+│ compatibility date 2026-06-15
+│
+├ Do you want to use git for version control?
+│ no git
+│
+╰ Application configured
+
+╭ Deploy with Cloudflare Step 3 of 3
+│
+╰ Do you want to deploy your application?
+╰ Done u want to deploy your application?
+│ no deploy via `npm run deploy`
+│
+🎉  SUCCESS  Application created successfully!
+
+💻 Continue Developing
+Change directories: cd pga-worker
+Deploy: npm run deploy
+
+📖 Explore Documentation
+https://developers.cloudflare.com/workers
+
+🐛 Report an Issue
+https://github.com/cloudflare/workers-sdk/issues/new/choose
+
+💬 Join our Community
+https://discord.cloudflare.com
+
+
+
+
+C:\Users\Simon>cd pga-worker
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+
+X [ERROR] Build failed with 1 error:
+
+  X [ERROR] Expected "*/" to terminate
+  multi-line comment
+
+      src/index.js:25:2:
+        25 │ };
+           ╵   ^
+
+    The multi-line comment starts here:
+
+      src/index.js:1:0:
+        1 │ /**
+          ╵ ~~
+
+
+
+
+🪵  Logs were written to "C:\Users\Simon\AppData\Roaming\xdg.config\.wrangler\lo
+gs\wrangler-2026-06-15_22-41-51_141.log"
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Total Upload: 0.64 KiB / gzip: 0.36 KiB
+Worker Startup Time: 7 ms
+Uploaded pga-worker (6.71 sec)
+Deployed pga-worker triggers (6.17 sec)
+  https://pga-worker.vodkabarlover.workers.dev
+Current Version ID: 7077412f-6168-41ca-92f1-ca37dc6b378e
+
+C:\Users\Simon\pga-worker>python fetch_open.py
+C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\python.exe: can't open file 'C:\\Users\\Simon\\pga-worker\\fetch_open.py': [Errno 2] No such file or directory
+
+C:\Users\Simon\pga-worker>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>python fetch_open.py
+Fetching The Open leaderboard...
+Error: Expecting value: line 3 column 1 (char 4)
+Traceback (most recent call last):
+  File "C:\Users\Simon\pga-leaderboard\fetch_open.py", line 23, in <module>
+    time.sleep(300)
+    ~~~~~~~~~~^^^^^
+KeyboardInterrupt
+^C
+C:\Users\Simon\pga-leaderboard>python test_api.py
+Status: 404
+Content:
+
+<!doctype html>
+<html lang="en" class="randa-html can-hover">
+<head>
+
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="format-detection" content="telephone=no" />
+<meta name="google-site-verification" content="FSPLcs-pTgzyuRl6nAac6col7bzzAmftX80gIZNsWgI" />
+<meta name="facebook-domain-verification" content="wiy4ryzb71kszpnvpy2p0nqze36xk3" />
+
+<ti
+
+C:\Users\Simon\pga-leaderboard>python - <<EOF
+<< was unexpected at this time.
+
+C:\Users\Simon\pga-leaderboard>import requests
+'import' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>r = requests.get("https://feeds.theopen.com/leaderboard/leaderboard.json")
+'r' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>print("Status:", r.status_code)
+Unable to initialize device PRN
+
+C:\Users\Simon\pga-leaderboard>print("Preview:", r.text[:500])
+Unable to initialize device PRN
+
+C:\Users\Simon\pga-leaderboard>EOF
+'EOF' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>python test_api.py
+Status: 500
+Preview: <!doctype html>
+<html lang="en" class="randa-html">
+<head>
+
+        <script>
+    (function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer',
+
+C:\Users\Simon\pga-leaderboard>
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>git pull origin main --no-edit
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\Simon>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>git pull origin main --no-edit
+From https://github.com/vodkabarlover-png/pga-leaderboard
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+C:\Users\Simon\pga-leaderboard>.\push.bat
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+^CTerminate batch job (Y/N)? y
+
+C:\Users\Simon\pga-leaderboard>fetch first
+'fetch' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Simon\pga-leaderboard>npm install -g wrangler
+
+changed 34 packages in 1m
+
+6 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\Simon\pga-leaderboard>wrangler login
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Attempting to login via OAuth...
+Opening a link in your default browser: https://dash.cloudflare.com/oauth2/auth?response_type=code&client_id=54d11594-84e4-41aa-b438-e81b8fa78ee7&redirect_uri=http%3A%2F%2Flocalhost%3A8976%2Foauth%2Fcallback&scope=account%3Aread%20user%3Aread%20workers%3Awrite%20workers_kv%3Awrite%20workers_routes%3Awrite%20workers_scripts%3Awrite%20workers_tail%3Aread%20d1%3Awrite%20pages%3Awrite%20zone%3Aread%20ssl_certs%3Awrite%20ai%3Awrite%20ai-search%3Awrite%20ai-search%3Arun%20websearch.run%20agent-memory%3Awrite%20queues%3Awrite%20pipelines%3Awrite%20secrets_store%3Awrite%20artifacts%3Awrite%20flagship%3Awrite%20containers%3Awrite%20cloudchamber%3Awrite%20connectivity%3Aadmin%20email_routing%3Awrite%20email_sending%3Awrite%20browser%3Awrite%20offline_access&state=g_eHbLxr49MKdOYIu~0hRoHMqRIXYBOt&code_challenge=Cq3AmYDPKiH-Psvo7kxIrQoqR4ZXl_Zdy8vHroI1HLo&code_challenge_method=S256
+Successfully logged in.
+
+C:\Users\Simon\pga-leaderboard>C:\Users\Simon\pga-worker
+'C:\Users\Simon\pga-worker' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>cd C:\Users\Simon
+
+C:\Users\Simon>wrangler init pga-worker
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+🌀 Running `npm create cloudflare pga-worker --`...
+
+> npx
+> create-cloudflare pga-worker
+
+
+
+👋 Welcome to create-cloudflare v2.70.2!
+🧡 Let's get started.
+📊 Cloudflare collects telemetry about your usage of Create-Cloudflare.
+
+Learn more at: https://github.com/cloudflare/workers-sdk/blob/main/packages/create-cloudflare/telemetry.md
+
+
+╭ Create an application with Cloudflare Step 1 of 3
+│
+├ In which directory do you want to create your application?
+│ dir ./pga-worker
+│
+├ What would you like to start with?
+│ category Hello World example
+│
+╰ Which template would you like to use?
+├ Which template would you like to use?
+│ type Worker only
+│
+├ Which language do you want to use?
+│ lang JavaScript
+│
+├ Copying template files
+│ files copied to project directory
+│
+├ Updating name in `package.json`
+│ updated `package.json`
+│
+╰ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudf├ Do you want to add an AGENTS.md file to help AI coding tools understand Cloudflare APIs?
+│ no agents
+│
+╰ Application created
+
+╭ Configuring your application for Cloudflare Step 2 of 3
+│
+├ Retrieving current workerd compatibility date
+│ compatibility date 2026-06-15
+│
+├ Do you want to use git for version control?
+│ no git
+│
+╰ Application configured
+
+╭ Deploy with Cloudflare Step 3 of 3
+│
+╰ Do you want to deploy your application?
+╰ Done u want to deploy your application?
+│ no deploy via `npm run deploy`
+│
+🎉  SUCCESS  Application created successfully!
+
+💻 Continue Developing
+Change directories: cd pga-worker
+Deploy: npm run deploy
+
+📖 Explore Documentation
+https://developers.cloudflare.com/workers
+
+🐛 Report an Issue
+https://github.com/cloudflare/workers-sdk/issues/new/choose
+
+💬 Join our Community
+https://discord.cloudflare.com
+
+
+
+
+C:\Users\Simon>cd pga-worker
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+
+X [ERROR] Build failed with 1 error:
+
+  X [ERROR] Expected "*/" to terminate
+  multi-line comment
+
+      src/index.js:25:2:
+        25 │ };
+           ╵   ^
+
+    The multi-line comment starts here:
+
+      src/index.js:1:0:
+        1 │ /**
+          ╵ ~~
+
+
+
+
+🪵  Logs were written to "C:\Users\Simon\AppData\Roaming\xdg.config\.wrangler\lo
+gs\wrangler-2026-06-15_22-41-51_141.log"
+
+C:\Users\Simon\pga-worker>wrangler deploy
+
+ ⛅️ wrangler 4.100.0
+────────────────────
+Total Upload: 0.64 KiB / gzip: 0.36 KiB
+Worker Startup Time: 7 ms
+Uploaded pga-worker (6.71 sec)
+Deployed pga-worker triggers (6.17 sec)
+  https://pga-worker.vodkabarlover.workers.dev
+Current Version ID: 7077412f-6168-41ca-92f1-ca37dc6b378e
+
+C:\Users\Simon\pga-worker>python fetch_open.py
+C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\python.exe: can't open file 'C:\\Users\\Simon\\pga-worker\\fetch_open.py': [Errno 2] No such file or directory
+
+C:\Users\Simon\pga-worker>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>python fetch_open.py
+Fetching The Open leaderboard...
+Error: Expecting value: line 3 column 1 (char 4)
+Traceback (most recent call last):
+  File "C:\Users\Simon\pga-leaderboard\fetch_open.py", line 23, in <module>
+    time.sleep(300)
+    ~~~~~~~~~~^^^^^
+KeyboardInterrupt
+^C
+C:\Users\Simon\pga-leaderboard>python test_api.py
+Status: 404
+Content:
+
+<!doctype html>
+<html lang="en" class="randa-html can-hover">
+<head>
+
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="format-detection" content="telephone=no" />
+<meta name="google-site-verification" content="FSPLcs-pTgzyuRl6nAac6col7bzzAmftX80gIZNsWgI" />
+<meta name="facebook-domain-verification" content="wiy4ryzb71kszpnvpy2p0nqze36xk3" />
+
+<ti
+
+C:\Users\Simon\pga-leaderboard>python - <<EOF
+<< was unexpected at this time.
+
+C:\Users\Simon\pga-leaderboard>import requests
+'import' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>r = requests.get("https://feeds.theopen.com/leaderboard/leaderboard.json")
+'r' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>print("Status:", r.status_code)
+Unable to initialize device PRN
+
+C:\Users\Simon\pga-leaderboard>print("Preview:", r.text[:500])
+Unable to initialize device PRN
+
+C:\Users\Simon\pga-leaderboard>EOF
+'EOF' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon\pga-leaderboard>cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>python test_api.py
+Status: 500
+Preview: <!doctype html>
+<html lang="en" class="randa-html">
+<head>
+
+        <script>
+    (function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer',
+
+C:\Users\Simon\pga-leaderboard>python test_api.py
+Status: 500
+Preview: <!doctype html>
+<html lang="en" class="randa-html">
+<head>
+
+        <script>
+    (function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer',
+
+C:\Users\Simon\pga-leaderboard>
+
+Nptes
+
+https://github.com/vodkabarlover-png/golf-data/tree/main/.github/workflows
+https://dashboard.scraperapi.com/home key - aa2b76c2bd48890d88719d529d7b796c
+https://github.com/vodkabarlover-png?tab=repositories
+https://github.com/vodkabarlover-png/pga-leaderboard
+
+Microsoft Windows [Version 10.0.19045.6466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Simon>C:\Users\Simon\pga-leaderboard
+'C:\Users\Simon\pga-leaderboard' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Simon>Cd C:\Users\Simon\pga-leaderboard
+
+C:\Users\Simon\pga-leaderboard>pip install cloudscraper beautifulsoup4 lxml
+Collecting cloudscraper
+  Downloading cloudscraper-1.2.71-py2.py3-none-any.whl.metadata (19 kB)
+Requirement already satisfied: beautifulsoup4 in C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages (4.15.0)
+Collecting lxml
+  Downloading lxml-6.1.1-cp314-cp314-win_amd64.whl.metadata (3.6 kB)
+Collecting pyparsing>=2.4.7 (from cloudscraper)
+  Downloading pyparsing-3.3.2-py3-none-any.whl.metadata (5.8 kB)
+Requirement already satisfied: requests>=2.9.2 in C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages (from cloudscraper) (2.34.2)
+Collecting requests-toolbelt>=0.9.1 (from cloudscraper)
+  Downloading requests_toolbelt-1.0.0-py2.py3-none-any.whl.metadata (14 kB)
+Requirement already satisfied: soupsieve>=1.6.1 in C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages (from beautifulsoup4) (2.8.4)
+Requirement already satisfied: typing-extensions>=4.0.0 in C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages (from beautifulsoup4) (4.15.0)
+Requirement already satisfied: charset_normalizer<4,>=2 in C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages (from requests>=2.9.2->cloudscraper) (3.4.7)
+Requirement already satisfied: idna<4,>=2.5 in C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages (from requests>=2.9.2->cloudscraper) (3.18)
+Requirement already satisfied: urllib3<3,>=1.26 in C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages (from requests>=2.9.2->cloudscraper) (2.7.0)
+Requirement already satisfied: certifi>=2023.5.7 in C:\Users\Simon\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages (from requests>=2.9.2->cloudscraper) (2026.5.20)
+Downloading cloudscraper-1.2.71-py2.py3-none-any.whl (99 kB)
+Downloading lxml-6.1.1-cp314-cp314-win_amd64.whl (4.1 MB)
+   ---------------------------------------- 4.1/4.1 MB 2.9 MB/s  0:00:01
+Downloading pyparsing-3.3.2-py3-none-any.whl (122 kB)
+Downloading requests_toolbelt-1.0.0-py2.py3-none-any.whl (54 kB)
+Installing collected packages: pyparsing, lxml, requests-toolbelt, cloudscraper
+Successfully installed cloudscraper-1.2.71 lxml-6.1.1 pyparsing-3.3.2 requests-toolbelt-1.0.0
+
+C:\Users\Simon\pga-leaderboard>python fetch_us_open.py
+Fetching U.S. Open leaderboard...
+Error: Could not find leaderboard table
+
+
+        modified:   fetch_Open.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commands to start script.txt
+        fetch_us_open.py
+        logs and info from co pilot ..txt
+        masters_fetch.py
+        test_api.py
+        test_api.py.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fetch_Open.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commands to start script.txt
+        fetch_us_open.py
+        logs and info from co pilot ..txt
+        masters_fetch.py
+        test_api.py
+        test_api.py.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fetch_Open.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commands to start script.txt
+        fetch_us_open.py
+        logs and info from co pilot ..txt
+        masters_fetch.py
+        test_api.py
+        test_api.py.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fetch_Open.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commands to start script.txt
+        fetch_us_open.py
+        logs and info from co pilot ..txt
+        masters_fetch.py
+        test_api.py
+        test_api.py.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fetch_Open.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commands to start script.txt
+        fetch_us_open.py
+        logs and info from co pilot ..txt
+        masters_fetch.py
+        test_api.py
+        test_api.py.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fetch_Open.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commands to start script.txt
+        fetch_us_open.py
+        logs and info from co pilot ..txt
+        masters_fetch.py
+        test_api.py
+        test_api.py.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fetch_Open.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commands to start script.txt
+        fetch_us_open.py
+        logs and info from co pilot ..txt
+        masters_fetch.py
+        test_api.py
+        test_api.py.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fetch_Open.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commands to start script.txt
+        fetch_us_open.py
+        logs and info from co pilot ..txt
+        masters_fetch.py
+        test_api.py
+        test_api.py.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fetch_Open.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commands to start script.txt
+        fetch_us_open.py
+        logs and info from co pilot ..txt
+        masters_fetch.py
+        test_api.py
+        test_api.py.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fetch_Open.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commands to start script.txt
+        fetch_us_open.py
+        logs and info from co pilot ..txt
+        masters_fetch.py
+        test_api.py
+        test_api.py.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   fetch_Open.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        commands to start script.txt
+        fetch_us_open.py
+        logs and info from co pilot ..txt
+        masters_fetch.py
+        test_api.py
+        test_api.py.bak
+
+no changes added to commit (use "git add" and/or "git commit -a")
+To https://github.com/vodkabarlover-png/pga-leaderboard.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/vodkabarlover-png/pga-leaderboard.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+^CTerminate batch job (Y/N)? y
+
+C:\Users\Simon\pga-leaderboard>y
+
+C:\Users\Simon\pga-leaderboard>python masters_fetch.py
+Fetching Masters feed (attempt 1/5)...
+Saved masters.json
+
+C:\Users\Simon\pga-leaderboard>
+
+Run echo "Current directory:"
+Current directory:
+/home/runner/work/pga-leaderboard/pga-leaderboard
+Listing all files:
+.:
+Leaderboard.json
+fetch.py
+fetch_Open.py
+masters_fetch.py
+push.bat

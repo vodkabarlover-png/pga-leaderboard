@@ -1,7 +1,6 @@
 import requests
 import json
 import time
-import os
 
 MASTERS_URL = "https://www.masters.com/en_US/scores/feeds/{year}/scores.json"
 OUTPUT_FILE = "masters.json"
@@ -22,10 +21,13 @@ def fetch_masters_json(year):
             response = requests.get(url, headers=HEADERS, timeout=10)
 
             if response.status_code == 200:
-                try:
-                    return response.json()
-                except:
-                    print("Received non‑JSON response, retrying...")
+                data = response.json()
+
+                # Validate structure
+                if "data" in data and "player" in data["data"]:
+                    return data
+                else:
+                    print("Feed returned but missing player data, retrying...")
             else:
                 print(f"HTTP {response.status_code}, retrying...")
 
@@ -34,12 +36,9 @@ def fetch_masters_json(year):
 
         time.sleep(2)
 
-    # Always return something
-    return {"error": "Failed to fetch Masters leaderboard"}
+    raise Exception("Failed to fetch Masters leaderboard after multiple attempts.")
 
 def save_json(data, filename):
-    print("DEBUG: Python working directory is:", os.getcwd())
-    print(f"Saving file to: {os.getcwd()}/{filename}")
     with open(filename, "w") as f:
         json.dump(data, f, indent=2)
     print(f"Saved {filename}")
