@@ -34,7 +34,7 @@ jobs:
         run: |
           python masters_fetch.py
 
-      - name: Switch to main branch
+           - name: Switch to main branch
         run: |
           git checkout main
 
@@ -42,6 +42,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add masters.json
-          git diff --quiet && echo "No changes to commit" || git commit -m "Update Masters leaderboard"
+          git add -A
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update Masters leaderboard"
           git push
