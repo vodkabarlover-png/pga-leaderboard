@@ -38,6 +38,7 @@ def fetch_masters_json(year):
     return {"error": "Failed to fetch Masters leaderboard"}
 
 def save_json(data, filename):
+    print("DEBUG: Python working directory is:", os.getcwd())
     print(f"Saving file to: {os.getcwd()}/{filename}")
     with open(filename, "w") as f:
         json.dump(data, f, indent=2)
