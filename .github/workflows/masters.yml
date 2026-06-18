@@ -34,7 +34,7 @@ jobs:
         run: |
           python masters_fetch.py
 
-           - name: Switch to main branch
+      - name: Switch to main branch
         run: |
           git checkout main
 
