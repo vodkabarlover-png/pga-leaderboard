@@ -28,20 +28,21 @@
         "displayValue": "-7"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "2:30 PM"
       },
       "toParToday": {
         "value": 0,
         "format": "absolute",
-        "displayValue": "E"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 203,
         "format": "absolute",
         "displayValue": "203"
       },
+      "holesThroughDate": "2026-06-21T14:30:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -94,20 +95,21 @@
         "displayValue": "-1"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "2:30 PM"
       },
       "toParToday": {
-        "value": -1,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "-1"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 209,
         "format": "absolute",
         "displayValue": "209"
       },
+      "holesThroughDate": "2026-06-21T14:30:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -160,20 +162,21 @@
         "displayValue": "-1"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "2:19 PM"
       },
       "toParToday": {
         "value": 0,
         "format": "absolute",
-        "displayValue": "E"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 209,
         "format": "absolute",
         "displayValue": "209"
       },
+      "holesThroughDate": "2026-06-21T14:19:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -225,20 +228,21 @@
         "displayValue": "-1"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "2:19 PM"
       },
       "toParToday": {
-        "value": 2,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+2"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 209,
         "format": "absolute",
         "displayValue": "209"
       },
+      "holesThroughDate": "2026-06-21T14:19:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -291,20 +295,21 @@
         "displayValue": "-1"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "2:08 PM"
       },
       "toParToday": {
-        "value": 2,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+2"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 209,
         "format": "absolute",
         "displayValue": "209"
       },
+      "holesThroughDate": "2026-06-21T14:08:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -356,20 +361,21 @@
         "displayValue": "E"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "2:08 PM"
       },
       "toParToday": {
-        "value": -3,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "-3"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 210,
         "format": "absolute",
         "displayValue": "210"
       },
+      "holesThroughDate": "2026-06-21T14:08:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -422,20 +428,21 @@
         "displayValue": "E"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "1:57 PM"
       },
       "toParToday": {
         "value": 0,
         "format": "absolute",
-        "displayValue": "E"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 210,
         "format": "absolute",
         "displayValue": "210"
       },
+      "holesThroughDate": "2026-06-21T13:57:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -488,20 +495,21 @@
         "displayValue": "E"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "1:57 PM"
       },
       "toParToday": {
-        "value": 1,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+1"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 210,
         "format": "absolute",
         "displayValue": "210"
       },
+      "holesThroughDate": "2026-06-21T13:57:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -554,20 +562,21 @@
         "displayValue": "E"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "1:46 PM"
       },
       "toParToday": {
-        "value": 3,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 210,
         "format": "absolute",
         "displayValue": "210"
       },
+      "holesThroughDate": "2026-06-21T13:46:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -619,20 +628,21 @@
         "displayValue": "+1"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "1:46 PM"
       },
       "toParToday": {
         "value": 0,
         "format": "absolute",
-        "displayValue": "E"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 211,
         "format": "absolute",
         "displayValue": "211"
       },
+      "holesThroughDate": "2026-06-21T13:46:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -685,20 +695,21 @@
         "displayValue": "+1"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "1:35 PM"
       },
       "toParToday": {
-        "value": 3,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 211,
         "format": "absolute",
         "displayValue": "211"
       },
+      "holesThroughDate": "2026-06-21T13:35:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -750,20 +761,21 @@
         "displayValue": "+1"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "1:35 PM"
       },
       "toParToday": {
-        "value": 4,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+4"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 211,
         "format": "absolute",
         "displayValue": "211"
       },
+      "holesThroughDate": "2026-06-21T13:35:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -790,6 +802,137 @@
     },
     {
       "player": {
+        "identifier": "45486",
+        "firstName": "Joaquin",
+        "lastName": "Niemann",
+        "country": {
+          "code": "chi",
+          "name": "Chile",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/chi"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false
+      },
+      "position": {
+        "value": 13,
+        "format": "absolute",
+        "displayValue": "T13"
+      },
+      "toPar": {
+        "value": 2,
+        "format": "absolute",
+        "displayValue": "+2"
+      },
+      "holesThrough": {
+        "value": 10,
+        "format": "absolute",
+        "displayValue": "10"
+      },
+      "toParToday": {
+        "value": -3,
+        "format": "absolute",
+        "displayValue": "-3"
+      },
+      "totalScore": {
+        "value": 215,
+        "format": "absolute",
+        "displayValue": "215"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 78,
+            "format": "absolute",
+            "displayValue": "78"
+          }
+        },
+        {
+          "score": {
+            "value": 65,
+            "format": "absolute",
+            "displayValue": "65"
+          }
+        },
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "31323",
+        "firstName": "Gary",
+        "lastName": "Woodland",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": true,
+        "hometown": "Topeka, Kan."
+      },
+      "position": {
+        "value": 14,
+        "format": "absolute",
+        "displayValue": "T13"
+      },
+      "toPar": {
+        "value": 2,
+        "format": "absolute",
+        "displayValue": "+2"
+      },
+      "holesThrough": {
+        "value": 5,
+        "format": "absolute",
+        "displayValue": "5"
+      },
+      "toParToday": {
+        "value": -1,
+        "format": "absolute",
+        "displayValue": "-1"
+      },
+      "totalScore": {
+        "value": 213,
+        "format": "absolute",
+        "displayValue": "213"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 67,
+            "format": "absolute",
+            "displayValue": "67"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "identifier": "33141",
         "firstName": "Keegan",
         "lastName": "Bradley",
@@ -806,7 +949,7 @@
         "hometown": "Woodstock, Vt."
       },
       "position": {
-        "value": 13,
+        "value": 15,
         "format": "absolute",
         "displayValue": "T13"
       },
@@ -816,20 +959,21 @@
         "displayValue": "+2"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "1:19 PM"
       },
       "toParToday": {
-        "value": 1,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+1"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 212,
         "format": "absolute",
         "displayValue": "212"
       },
+      "holesThroughDate": "2026-06-21T13:19:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -871,7 +1015,7 @@
         "isPastChampion": false
       },
       "position": {
-        "value": 14,
+        "value": 16,
         "format": "absolute",
         "displayValue": "T13"
       },
@@ -881,20 +1025,21 @@
         "displayValue": "+2"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "1:19 PM"
       },
       "toParToday": {
-        "value": 1,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+1"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 212,
         "format": "absolute",
         "displayValue": "212"
       },
+      "holesThroughDate": "2026-06-21T13:19:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -936,7 +1081,7 @@
         "isPastChampion": false
       },
       "position": {
-        "value": 15,
+        "value": 17,
         "format": "absolute",
         "displayValue": "T13"
       },
@@ -946,20 +1091,21 @@
         "displayValue": "+2"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "1:08 PM"
       },
       "toParToday": {
-        "value": 2,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+2"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 212,
         "format": "absolute",
         "displayValue": "212"
       },
+      "holesThroughDate": "2026-06-21T13:08:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -1002,7 +1148,7 @@
         "hometown": "Edmond, Okla."
       },
       "position": {
-        "value": 16,
+        "value": 18,
         "format": "absolute",
         "displayValue": "T13"
       },
@@ -1012,20 +1158,21 @@
         "displayValue": "+2"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "1:08 PM"
       },
       "toParToday": {
-        "value": 2,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+2"
+        "displayValue": ""
       },
       "totalScore": {
         "value": 212,
         "format": "absolute",
         "displayValue": "212"
       },
+      "holesThroughDate": "2026-06-21T13:08:00-04:00",
       "roundScores": [
         {
           "score": {
@@ -1052,6 +1199,661 @@
     },
     {
       "player": {
+        "identifier": "33448",
+        "firstName": "Justin",
+        "lastName": "Thomas",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Louisville, Ky."
+      },
+      "position": {
+        "value": 19,
+        "format": "absolute",
+        "displayValue": "T19"
+      },
+      "toPar": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "holesThrough": {
+        "value": 9,
+        "format": "absolute",
+        "displayValue": "9"
+      },
+      "toParToday": {
+        "value": -1,
+        "format": "absolute",
+        "displayValue": "-1"
+      },
+      "totalScore": {
+        "value": 214,
+        "format": "absolute",
+        "displayValue": "214"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 68,
+            "format": "absolute",
+            "displayValue": "68"
+          }
+        },
+        {
+          "score": {
+            "value": 75,
+            "format": "absolute",
+            "displayValue": "75"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "54591",
+        "firstName": "Ben",
+        "lastName": "Griffin",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Chapel Hill, N.C."
+      },
+      "position": {
+        "value": 20,
+        "format": "absolute",
+        "displayValue": "T19"
+      },
+      "toPar": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "holesThrough": {
+        "value": 7,
+        "format": "absolute",
+        "displayValue": "7"
+      },
+      "toParToday": {
+        "value": -1,
+        "format": "absolute",
+        "displayValue": "-1"
+      },
+      "totalScore": {
+        "value": 214,
+        "format": "absolute",
+        "displayValue": "214"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        },
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "34363",
+        "firstName": "Tyrrell",
+        "lastName": "Hatton",
+        "country": {
+          "code": "eng",
+          "name": "England",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/eng"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false
+      },
+      "position": {
+        "value": 21,
+        "format": "absolute",
+        "displayValue": "T19"
+      },
+      "toPar": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "holesThrough": {
+        "value": 7,
+        "format": "absolute",
+        "displayValue": "7"
+      },
+      "toParToday": {
+        "value": -1,
+        "format": "absolute",
+        "displayValue": "-1"
+      },
+      "totalScore": {
+        "value": 214,
+        "format": "absolute",
+        "displayValue": "214"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
+          }
+        },
+        {
+          "score": {
+            "value": 68,
+            "format": "absolute",
+            "displayValue": "68"
+          }
+        },
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "51287",
+        "firstName": "Ryo",
+        "lastName": "Hisatsune",
+        "country": {
+          "code": "jpn",
+          "name": "Japan",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/jpn"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false
+      },
+      "position": {
+        "value": 22,
+        "format": "absolute",
+        "displayValue": "T19"
+      },
+      "toPar": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "holesThrough": {
+        "value": 5,
+        "format": "absolute",
+        "displayValue": "5"
+      },
+      "toParToday": {
+        "value": 0,
+        "format": "absolute",
+        "displayValue": "E"
+      },
+      "totalScore": {
+        "value": 213,
+        "format": "absolute",
+        "displayValue": "213"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 69,
+            "format": "absolute",
+            "displayValue": "69"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "56630",
+        "firstName": "Akshay",
+        "lastName": "Bhatia",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Jupiter, Fla."
+      },
+      "position": {
+        "value": 23,
+        "format": "absolute",
+        "displayValue": "T19"
+      },
+      "toPar": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "holesThrough": {
+        "value": 4,
+        "format": "absolute",
+        "displayValue": "4"
+      },
+      "toParToday": {
+        "value": 0,
+        "format": "absolute",
+        "displayValue": "E"
+      },
+      "totalScore": {
+        "value": 213,
+        "format": "absolute",
+        "displayValue": "213"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "46442",
+        "firstName": "Maverick",
+        "lastName": "McNealy",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Las Vegas, Nev."
+      },
+      "position": {
+        "value": 24,
+        "format": "absolute",
+        "displayValue": "T19"
+      },
+      "toPar": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "holesThrough": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "3"
+      },
+      "toParToday": {
+        "value": 0,
+        "format": "absolute",
+        "displayValue": "E"
+      },
+      "totalScore": {
+        "value": 213,
+        "format": "absolute",
+        "displayValue": "213"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        },
+        {
+          "score": {
+            "value": 68,
+            "format": "absolute",
+            "displayValue": "68"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "46414",
+        "firstName": "Aaron",
+        "lastName": "Rai",
+        "country": {
+          "code": "eng",
+          "name": "England",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/eng"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false
+      },
+      "position": {
+        "value": 25,
+        "format": "absolute",
+        "displayValue": "T19"
+      },
+      "toPar": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "holesThrough": {
+        "value": 2,
+        "format": "absolute",
+        "displayValue": "2"
+      },
+      "toParToday": {
+        "value": 0,
+        "format": "absolute",
+        "displayValue": "E"
+      },
+      "totalScore": {
+        "value": 213,
+        "format": "absolute",
+        "displayValue": "213"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
+          }
+        },
+        {
+          "score": {
+            "value": 67,
+            "format": "absolute",
+            "displayValue": "67"
+          }
+        },
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "28723",
+        "firstName": "John",
+        "lastName": "Parry",
+        "country": {
+          "code": "eng",
+          "name": "England",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/eng"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false
+      },
+      "position": {
+        "value": 26,
+        "format": "absolute",
+        "displayValue": "T19"
+      },
+      "toPar": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "holesThrough": {
+        "value": 1,
+        "format": "absolute",
+        "displayValue": "1"
+      },
+      "toParToday": {
+        "value": 0,
+        "format": "absolute",
+        "displayValue": "E"
+      },
+      "totalScore": {
+        "value": 213,
+        "format": "absolute",
+        "displayValue": "213"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "49771",
+        "firstName": "J.T.",
+        "lastName": "Poston",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Hickory, N.C."
+      },
+      "position": {
+        "value": 27,
+        "format": "absolute",
+        "displayValue": "T19"
+      },
+      "toPar": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "holesThrough": {
+        "value": 1,
+        "format": "absolute",
+        "displayValue": "1"
+      },
+      "toParToday": {
+        "value": 0,
+        "format": "absolute",
+        "displayValue": "E"
+      },
+      "totalScore": {
+        "value": 213,
+        "format": "absolute",
+        "displayValue": "213"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "39971",
+        "firstName": "Sungjae",
+        "lastName": "Im",
+        "country": {
+          "code": "kor",
+          "name": "Republic of Korea",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/kor"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false
+      },
+      "position": {
+        "value": 28,
+        "format": "absolute",
+        "displayValue": "T19"
+      },
+      "toPar": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "holesThrough": {
+        "value": 1,
+        "format": "absolute",
+        "displayValue": "1"
+      },
+      "toParToday": {
+        "value": 0,
+        "format": "absolute",
+        "displayValue": "E"
+      },
+      "totalScore": {
+        "value": 213,
+        "format": "absolute",
+        "displayValue": "213"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
+          }
+        },
+        {
+          "score": {
+            "value": 68,
+            "format": "absolute",
+            "displayValue": "68"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
         "identifier": "39975",
         "firstName": "Michael",
         "lastName": "Kim",
@@ -1068,9 +1870,9 @@
         "hometown": "Dallas, Texas"
       },
       "position": {
-        "value": 17,
+        "value": 29,
         "format": "absolute",
-        "displayValue": "T17"
+        "displayValue": "T19"
       },
       "toPar": {
         "value": 3,
@@ -1078,9 +1880,9 @@
         "displayValue": "+3"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 1,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "1"
       },
       "toParToday": {
         "value": 0,
@@ -1118,372 +1920,44 @@
     },
     {
       "player": {
-        "identifier": "39971",
-        "firstName": "Sungjae",
-        "lastName": "Im",
+        "identifier": "52955",
+        "firstName": "Ludvig",
+        "lastName": "\u00c5berg",
         "country": {
-          "code": "kor",
-          "name": "Republic of Korea",
+          "code": "swe",
+          "name": "Sweden",
           "flag": {
             "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/kor"
+            "identifier": "global/mobile/flags/swe"
           }
         },
         "isAmateur": false,
         "isPastChampion": false
       },
       "position": {
-        "value": 18,
+        "value": 30,
         "format": "absolute",
-        "displayValue": "T17"
+        "displayValue": "T30"
       },
       "toPar": {
-        "value": 3,
+        "value": 4,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "+4"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 16,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "16"
       },
       "toParToday": {
-        "value": 1,
+        "value": -3,
         "format": "absolute",
-        "displayValue": "+1"
+        "displayValue": "-3"
       },
       "totalScore": {
-        "value": 213,
+        "value": 217,
         "format": "absolute",
-        "displayValue": "213"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        },
-        {
-          "score": {
-            "value": 68,
-            "format": "absolute",
-            "displayValue": "68"
-          }
-        },
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "49771",
-        "firstName": "J.T.",
-        "lastName": "Poston",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Hickory, N.C."
-      },
-      "position": {
-        "value": 19,
-        "format": "absolute",
-        "displayValue": "T17"
-      },
-      "toPar": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 1,
-        "format": "absolute",
-        "displayValue": "+1"
-      },
-      "totalScore": {
-        "value": 213,
-        "format": "absolute",
-        "displayValue": "213"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "28723",
-        "firstName": "John",
-        "lastName": "Parry",
-        "country": {
-          "code": "eng",
-          "name": "England",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/eng"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false
-      },
-      "position": {
-        "value": 20,
-        "format": "absolute",
-        "displayValue": "T17"
-      },
-      "toPar": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 1,
-        "format": "absolute",
-        "displayValue": "+1"
-      },
-      "totalScore": {
-        "value": 213,
-        "format": "absolute",
-        "displayValue": "213"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "46414",
-        "firstName": "Aaron",
-        "lastName": "Rai",
-        "country": {
-          "code": "eng",
-          "name": "England",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/eng"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false
-      },
-      "position": {
-        "value": 21,
-        "format": "absolute",
-        "displayValue": "T17"
-      },
-      "toPar": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 2,
-        "format": "absolute",
-        "displayValue": "+2"
-      },
-      "totalScore": {
-        "value": 213,
-        "format": "absolute",
-        "displayValue": "213"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        },
-        {
-          "score": {
-            "value": 67,
-            "format": "absolute",
-            "displayValue": "67"
-          }
-        },
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "40058",
-        "firstName": "Zac",
-        "lastName": "Blair",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Orem, Utah"
-      },
-      "position": {
-        "value": 22,
-        "format": "absolute",
-        "displayValue": "T17"
-      },
-      "toPar": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 2,
-        "format": "absolute",
-        "displayValue": "+2"
-      },
-      "totalScore": {
-        "value": 213,
-        "format": "absolute",
-        "displayValue": "213"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 70,
-            "format": "absolute",
-            "displayValue": "70"
-          }
-        },
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "27644",
-        "firstName": "Brian",
-        "lastName": "Harman",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Sea Island, Ga."
-      },
-      "position": {
-        "value": 23,
-        "format": "absolute",
-        "displayValue": "T17"
-      },
-      "toPar": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "totalScore": {
-        "value": 213,
-        "format": "absolute",
-        "displayValue": "213"
+        "displayValue": "217"
       },
       "roundScores": [
         {
@@ -1495,25 +1969,25 @@
         },
         {
           "score": {
-            "value": 71,
+            "value": 72,
             "format": "absolute",
-            "displayValue": "71"
+            "displayValue": "72"
           }
         },
         {
           "score": {
-            "value": 73,
+            "value": 76,
             "format": "absolute",
-            "displayValue": "73"
+            "displayValue": "76"
           }
         }
       ]
     },
     {
       "player": {
-        "identifier": "46442",
-        "firstName": "Maverick",
-        "lastName": "McNealy",
+        "identifier": "51950",
+        "firstName": "Max",
+        "lastName": "McGreevy",
         "country": {
           "code": "usa",
           "name": "United States of America",
@@ -1524,41 +1998,34 @@
         },
         "isAmateur": false,
         "isPastChampion": false,
-        "hometown": "Las Vegas, Nev."
+        "hometown": "Edmond, Okla."
       },
       "position": {
-        "value": 24,
+        "value": 31,
         "format": "absolute",
-        "displayValue": "T17"
+        "displayValue": "T30"
       },
       "toPar": {
-        "value": 3,
+        "value": 4,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "+4"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 7,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "7"
       },
       "toParToday": {
-        "value": 3,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "E"
       },
       "totalScore": {
-        "value": 213,
+        "value": 214,
         "format": "absolute",
-        "displayValue": "213"
+        "displayValue": "214"
       },
       "roundScores": [
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        },
         {
           "score": {
             "value": 68,
@@ -1572,63 +2039,70 @@
             "format": "absolute",
             "displayValue": "73"
           }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
         }
       ]
     },
     {
       "player": {
-        "identifier": "28237",
-        "firstName": "Rory",
-        "lastName": "McIlroy",
+        "identifier": "22405",
+        "firstName": "Justin",
+        "lastName": "Rose",
         "country": {
-          "code": "nir",
-          "name": "Northern Ireland",
+          "code": "eng",
+          "name": "England",
           "flag": {
             "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/nir"
+            "identifier": "global/mobile/flags/eng"
           }
         },
         "isAmateur": false,
         "isPastChampion": true
       },
       "position": {
-        "value": 25,
+        "value": 32,
         "format": "absolute",
-        "displayValue": "T17"
+        "displayValue": "T30"
       },
       "toPar": {
-        "value": 3,
+        "value": 4,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "+4"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 7,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "7"
       },
       "toParToday": {
-        "value": 3,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "E"
       },
       "totalScore": {
-        "value": 213,
+        "value": 214,
         "format": "absolute",
-        "displayValue": "213"
+        "displayValue": "214"
       },
       "roundScores": [
-        {
-          "score": {
-            "value": 69,
-            "format": "absolute",
-            "displayValue": "69"
-          }
-        },
         {
           "score": {
             "value": 71,
             "format": "absolute",
             "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
           }
         },
         {
@@ -1642,9 +2116,9 @@
     },
     {
       "player": {
-        "identifier": "56630",
-        "firstName": "Akshay",
-        "lastName": "Bhatia",
+        "identifier": "59836",
+        "firstName": "Pierceson",
+        "lastName": "Coody",
         "country": {
           "code": "usa",
           "name": "United States of America",
@@ -1655,165 +2129,41 @@
         },
         "isAmateur": false,
         "isPastChampion": false,
-        "hometown": "Jupiter, Fla."
+        "hometown": "Plano, Texas"
       },
       "position": {
-        "value": 26,
+        "value": 33,
         "format": "absolute",
-        "displayValue": "T17"
+        "displayValue": "T30"
       },
       "toPar": {
-        "value": 3,
+        "value": 4,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "+4"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 5,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "5"
       },
       "toParToday": {
-        "value": 3,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "E"
       },
       "totalScore": {
-        "value": 213,
+        "value": 214,
         "format": "absolute",
-        "displayValue": "213"
+        "displayValue": "214"
       },
       "roundScores": [
         {
           "score": {
-            "value": 70,
+            "value": 72,
             "format": "absolute",
-            "displayValue": "70"
+            "displayValue": "72"
           }
         },
-        {
-          "score": {
-            "value": 70,
-            "format": "absolute",
-            "displayValue": "70"
-          }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "31323",
-        "firstName": "Gary",
-        "lastName": "Woodland",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": true,
-        "hometown": "Topeka, Kan."
-      },
-      "position": {
-        "value": 27,
-        "format": "absolute",
-        "displayValue": "T17"
-      },
-      "toPar": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "totalScore": {
-        "value": 213,
-        "format": "absolute",
-        "displayValue": "213"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 67,
-            "format": "absolute",
-            "displayValue": "67"
-          }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "51287",
-        "firstName": "Ryo",
-        "lastName": "Hisatsune",
-        "country": {
-          "code": "jpn",
-          "name": "Japan",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/jpn"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false
-      },
-      "position": {
-        "value": 28,
-        "format": "absolute",
-        "displayValue": "T17"
-      },
-      "toPar": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "totalScore": {
-        "value": 213,
-        "format": "absolute",
-        "displayValue": "213"
-      },
-      "roundScores": [
         {
           "score": {
             "value": 71,
@@ -1823,16 +2173,9 @@
         },
         {
           "score": {
-            "value": 69,
+            "value": 71,
             "format": "absolute",
-            "displayValue": "69"
-          }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
+            "displayValue": "71"
           }
         }
       ]
@@ -1855,9 +2198,9 @@
         "hometown": "Jupiter, Fla."
       },
       "position": {
-        "value": 29,
+        "value": 34,
         "format": "absolute",
-        "displayValue": "T29"
+        "displayValue": "T30"
       },
       "toPar": {
         "value": 4,
@@ -1865,14 +2208,14 @@
         "displayValue": "+4"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 5,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "5"
       },
       "toParToday": {
-        "value": 1,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+1"
+        "displayValue": "E"
       },
       "totalScore": {
         "value": 214,
@@ -1905,9 +2248,9 @@
     },
     {
       "player": {
-        "identifier": "59836",
-        "firstName": "Pierceson",
-        "lastName": "Coody",
+        "identifier": "57869",
+        "firstName": "Ben",
+        "lastName": "James",
         "country": {
           "code": "usa",
           "name": "United States of America",
@@ -1918,17 +2261,17 @@
         },
         "isAmateur": false,
         "isPastChampion": false,
-        "hometown": "Plano, Texas"
+        "hometown": "Milford, Conn."
       },
       "position": {
-        "value": 30,
+        "value": 35,
         "format": "absolute",
-        "displayValue": "T29"
+        "displayValue": "T35"
       },
       "toPar": {
-        "value": 4,
+        "value": 5,
         "format": "absolute",
-        "displayValue": "+4"
+        "displayValue": "+5"
       },
       "holesThrough": {
         "value": 18,
@@ -1936,16 +2279,23 @@
         "displayValue": "F"
       },
       "toParToday": {
-        "value": 1,
+        "value": -3,
         "format": "absolute",
-        "displayValue": "+1"
+        "displayValue": "-3"
       },
       "totalScore": {
-        "value": 214,
+        "value": 285,
         "format": "absolute",
-        "displayValue": "214"
+        "displayValue": "285"
       },
       "roundScores": [
+        {
+          "score": {
+            "value": 69,
+            "format": "absolute",
+            "displayValue": "69"
+          }
+        },
         {
           "score": {
             "value": 72,
@@ -1955,90 +2305,156 @@
         },
         {
           "score": {
-            "value": 71,
+            "value": 77,
             "format": "absolute",
-            "displayValue": "71"
+            "displayValue": "77"
           }
         },
         {
           "score": {
-            "value": 71,
+            "value": 67,
             "format": "absolute",
-            "displayValue": "71"
+            "displayValue": "67"
           }
         }
       ]
     },
     {
       "player": {
-        "identifier": "34363",
-        "firstName": "Tyrrell",
-        "lastName": "Hatton",
+        "identifier": "29936",
+        "firstName": "Ryan",
+        "lastName": "Fox",
         "country": {
-          "code": "eng",
-          "name": "England",
+          "code": "nzl",
+          "name": "New Zealand",
           "flag": {
             "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/eng"
+            "identifier": "global/mobile/flags/nzl"
           }
         },
         "isAmateur": false,
         "isPastChampion": false
       },
       "position": {
-        "value": 31,
+        "value": 36,
         "format": "absolute",
-        "displayValue": "T29"
+        "displayValue": "T35"
       },
       "toPar": {
-        "value": 4,
+        "value": 5,
         "format": "absolute",
-        "displayValue": "+4"
+        "displayValue": "+5"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 15,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "15"
       },
       "toParToday": {
-        "value": 2,
+        "value": -2,
         "format": "absolute",
-        "displayValue": "+2"
+        "displayValue": "-2"
       },
       "totalScore": {
-        "value": 214,
+        "value": 217,
         "format": "absolute",
-        "displayValue": "214"
+        "displayValue": "217"
       },
       "roundScores": [
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        },
         {
           "score": {
             "value": 74,
             "format": "absolute",
             "displayValue": "74"
           }
-        },
-        {
-          "score": {
-            "value": 68,
-            "format": "absolute",
-            "displayValue": "68"
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "66701",
+        "firstName": "Jackson",
+        "lastName": "Koivun",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
           }
         },
+        "isAmateur": true,
+        "isPastChampion": false,
+        "hometown": "Chapel Hill, N.C."
+      },
+      "position": {
+        "value": 37,
+        "format": "absolute",
+        "displayValue": "T35"
+      },
+      "toPar": {
+        "value": 5,
+        "format": "absolute",
+        "displayValue": "+5"
+      },
+      "holesThrough": {
+        "value": 14,
+        "format": "absolute",
+        "displayValue": "14"
+      },
+      "toParToday": {
+        "value": -2,
+        "format": "absolute",
+        "displayValue": "-2"
+      },
+      "totalScore": {
+        "value": 217,
+        "format": "absolute",
+        "displayValue": "217"
+      },
+      "roundScores": [
         {
           "score": {
             "value": 72,
             "format": "absolute",
             "displayValue": "72"
           }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
+          }
         }
       ]
     },
     {
       "player": {
-        "identifier": "54591",
+        "identifier": "36884",
         "firstName": "Ben",
-        "lastName": "Griffin",
+        "lastName": "Kohles",
         "country": {
           "code": "usa",
           "name": "United States of America",
@@ -2049,41 +2465,34 @@
         },
         "isAmateur": false,
         "isPastChampion": false,
-        "hometown": "Chapel Hill, N.C."
+        "hometown": "Cary, N.C."
       },
       "position": {
-        "value": 32,
+        "value": 38,
         "format": "absolute",
-        "displayValue": "T29"
+        "displayValue": "T35"
       },
       "toPar": {
-        "value": 4,
+        "value": 5,
         "format": "absolute",
-        "displayValue": "+4"
+        "displayValue": "+5"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 11,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "11"
       },
       "toParToday": {
-        "value": 2,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+2"
+        "displayValue": "E"
       },
       "totalScore": {
-        "value": 214,
+        "value": 215,
         "format": "absolute",
-        "displayValue": "214"
+        "displayValue": "215"
       },
       "roundScores": [
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        },
         {
           "score": {
             "value": 70,
@@ -2093,53 +2502,192 @@
         },
         {
           "score": {
-            "value": 72,
+            "value": 71,
             "format": "absolute",
-            "displayValue": "72"
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
           }
         }
       ]
     },
     {
       "player": {
-        "identifier": "22405",
-        "firstName": "Justin",
-        "lastName": "Rose",
+        "identifier": "28237",
+        "firstName": "Rory",
+        "lastName": "McIlroy",
         "country": {
-          "code": "eng",
-          "name": "England",
+          "code": "nir",
+          "name": "Northern Ireland",
           "flag": {
             "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/eng"
+            "identifier": "global/mobile/flags/nir"
           }
         },
         "isAmateur": false,
         "isPastChampion": true
       },
       "position": {
-        "value": 33,
+        "value": 39,
         "format": "absolute",
-        "displayValue": "T29"
+        "displayValue": "T35"
       },
       "toPar": {
-        "value": 4,
+        "value": 5,
         "format": "absolute",
-        "displayValue": "+4"
+        "displayValue": "+5"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 4,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "4"
       },
       "toParToday": {
-        "value": 3,
+        "value": 2,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "+2"
       },
       "totalScore": {
-        "value": 214,
+        "value": 213,
         "format": "absolute",
-        "displayValue": "214"
+        "displayValue": "213"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 69,
+            "format": "absolute",
+            "displayValue": "69"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "27644",
+        "firstName": "Brian",
+        "lastName": "Harman",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Sea Island, Ga."
+      },
+      "position": {
+        "value": 40,
+        "format": "absolute",
+        "displayValue": "T35"
+      },
+      "toPar": {
+        "value": 5,
+        "format": "absolute",
+        "displayValue": "+5"
+      },
+      "holesThrough": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "3"
+      },
+      "toParToday": {
+        "value": 2,
+        "format": "absolute",
+        "displayValue": "+2"
+      },
+      "totalScore": {
+        "value": 213,
+        "format": "absolute",
+        "displayValue": "213"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 69,
+            "format": "absolute",
+            "displayValue": "69"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "40058",
+        "firstName": "Zac",
+        "lastName": "Blair",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Orem, Utah"
+      },
+      "position": {
+        "value": 41,
+        "format": "absolute",
+        "displayValue": "T35"
+      },
+      "toPar": {
+        "value": 5,
+        "format": "absolute",
+        "displayValue": "+5"
+      },
+      "holesThrough": {
+        "value": 2,
+        "format": "absolute",
+        "displayValue": "2"
+      },
+      "toParToday": {
+        "value": 2,
+        "format": "absolute",
+        "displayValue": "+2"
+      },
+      "totalScore": {
+        "value": 213,
+        "format": "absolute",
+        "displayValue": "213"
       },
       "roundScores": [
         {
@@ -2158,18 +2706,18 @@
         },
         {
           "score": {
-            "value": 73,
+            "value": 72,
             "format": "absolute",
-            "displayValue": "73"
+            "displayValue": "72"
           }
         }
       ]
     },
     {
       "player": {
-        "identifier": "51950",
-        "firstName": "Max",
-        "lastName": "McGreevy",
+        "identifier": "63454",
+        "firstName": "Johnny",
+        "lastName": "Keefer",
         "country": {
           "code": "usa",
           "name": "United States of America",
@@ -2180,46 +2728,112 @@
         },
         "isAmateur": false,
         "isPastChampion": false,
-        "hometown": "Edmond, Okla."
+        "hometown": "San Antonio, Texas"
       },
       "position": {
-        "value": 34,
+        "value": 42,
         "format": "absolute",
-        "displayValue": "T29"
+        "displayValue": "T42"
       },
       "toPar": {
-        "value": 4,
+        "value": 6,
         "format": "absolute",
-        "displayValue": "+4"
+        "displayValue": "+6"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 15,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "15"
       },
       "toParToday": {
-        "value": 3,
+        "value": -1,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "-1"
       },
       "totalScore": {
-        "value": 214,
+        "value": 217,
         "format": "absolute",
-        "displayValue": "214"
+        "displayValue": "217"
       },
       "roundScores": [
         {
           "score": {
-            "value": 68,
+            "value": 71,
             "format": "absolute",
-            "displayValue": "68"
+            "displayValue": "71"
           }
         },
         {
           "score": {
-            "value": 73,
+            "value": 70,
             "format": "absolute",
-            "displayValue": "73"
+            "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 76,
+            "format": "absolute",
+            "displayValue": "76"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "61522",
+        "firstName": "Michael",
+        "lastName": "Brennan",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Leesburg, Va."
+      },
+      "position": {
+        "value": 43,
+        "format": "absolute",
+        "displayValue": "T42"
+      },
+      "toPar": {
+        "value": 6,
+        "format": "absolute",
+        "displayValue": "+6"
+      },
+      "holesThrough": {
+        "value": 12,
+        "format": "absolute",
+        "displayValue": "12"
+      },
+      "toParToday": {
+        "value": 0,
+        "format": "absolute",
+        "displayValue": "E"
+      },
+      "totalScore": {
+        "value": 216,
+        "format": "absolute",
+        "displayValue": "216"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
           }
         },
         {
@@ -2248,467 +2862,7 @@
         "isPastChampion": false
       },
       "position": {
-        "value": 35,
-        "format": "absolute",
-        "displayValue": "T29"
-      },
-      "toPar": {
-        "value": 4,
-        "format": "absolute",
-        "displayValue": "+4"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "totalScore": {
-        "value": 214,
-        "format": "absolute",
-        "displayValue": "214"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 70,
-            "format": "absolute",
-            "displayValue": "70"
-          }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "63121",
-        "firstName": "William",
-        "lastName": "Mouw",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Chino Hills, Calif."
-      },
-      "position": {
-        "value": 36,
-        "format": "absolute",
-        "displayValue": "T29"
-      },
-      "toPar": {
-        "value": 4,
-        "format": "absolute",
-        "displayValue": "+4"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 4,
-        "format": "absolute",
-        "displayValue": "+4"
-      },
-      "totalScore": {
-        "value": 214,
-        "format": "absolute",
-        "displayValue": "214"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 70,
-            "format": "absolute",
-            "displayValue": "70"
-          }
-        },
-        {
-          "score": {
-            "value": 70,
-            "format": "absolute",
-            "displayValue": "70"
-          }
-        },
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "33448",
-        "firstName": "Justin",
-        "lastName": "Thomas",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Louisville, Ky."
-      },
-      "position": {
-        "value": 37,
-        "format": "absolute",
-        "displayValue": "T29"
-      },
-      "toPar": {
-        "value": 4,
-        "format": "absolute",
-        "displayValue": "+4"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 5,
-        "format": "absolute",
-        "displayValue": "+5"
-      },
-      "totalScore": {
-        "value": 214,
-        "format": "absolute",
-        "displayValue": "214"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 68,
-            "format": "absolute",
-            "displayValue": "68"
-          }
-        },
-        {
-          "score": {
-            "value": 75,
-            "format": "absolute",
-            "displayValue": "75"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "34362",
-        "firstName": "Laurie",
-        "lastName": "Canter",
-        "country": {
-          "code": "eng",
-          "name": "England",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/eng"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false
-      },
-      "position": {
-        "value": 38,
-        "format": "absolute",
-        "displayValue": "T38"
-      },
-      "toPar": {
-        "value": 5,
-        "format": "absolute",
-        "displayValue": "+5"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 1,
-        "format": "absolute",
-        "displayValue": "+1"
-      },
-      "totalScore": {
-        "value": 215,
-        "format": "absolute",
-        "displayValue": "215"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        },
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        },
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "45486",
-        "firstName": "Joaquin",
-        "lastName": "Niemann",
-        "country": {
-          "code": "chi",
-          "name": "Chile",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/chi"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false
-      },
-      "position": {
-        "value": 39,
-        "format": "absolute",
-        "displayValue": "T38"
-      },
-      "toPar": {
-        "value": 5,
-        "format": "absolute",
-        "displayValue": "+5"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 2,
-        "format": "absolute",
-        "displayValue": "+2"
-      },
-      "totalScore": {
-        "value": 215,
-        "format": "absolute",
-        "displayValue": "215"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 78,
-            "format": "absolute",
-            "displayValue": "78"
-          }
-        },
-        {
-          "score": {
-            "value": 65,
-            "format": "absolute",
-            "displayValue": "65"
-          }
-        },
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "57366",
-        "firstName": "Cameron",
-        "lastName": "Young",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Palm Beach Gardens, Fla."
-      },
-      "position": {
-        "value": 40,
-        "format": "absolute",
-        "displayValue": "T38"
-      },
-      "toPar": {
-        "value": 5,
-        "format": "absolute",
-        "displayValue": "+5"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "totalScore": {
-        "value": 215,
-        "format": "absolute",
-        "displayValue": "215"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        },
-        {
-          "score": {
-            "value": 70,
-            "format": "absolute",
-            "displayValue": "70"
-          }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "36884",
-        "firstName": "Ben",
-        "lastName": "Kohles",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Cary, N.C."
-      },
-      "position": {
-        "value": 41,
-        "format": "absolute",
-        "displayValue": "T38"
-      },
-      "toPar": {
-        "value": 5,
-        "format": "absolute",
-        "displayValue": "+5"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 4,
-        "format": "absolute",
-        "displayValue": "+4"
-      },
-      "totalScore": {
-        "value": 215,
-        "format": "absolute",
-        "displayValue": "215"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 70,
-            "format": "absolute",
-            "displayValue": "70"
-          }
-        },
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "34021",
-        "firstName": "Bud",
-        "lastName": "Cauley",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Palm Beach Gardens, Fla."
-      },
-      "position": {
-        "value": 42,
+        "value": 44,
         "format": "absolute",
         "displayValue": "T42"
       },
@@ -2718,9 +2872,9 @@
         "displayValue": "+6"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 8,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "8"
       },
       "toParToday": {
         "value": 2,
@@ -2728,30 +2882,30 @@
         "displayValue": "+2"
       },
       "totalScore": {
-        "value": 216,
+        "value": 214,
         "format": "absolute",
-        "displayValue": "216"
+        "displayValue": "214"
       },
       "roundScores": [
         {
           "score": {
-            "value": 72,
+            "value": 71,
             "format": "absolute",
-            "displayValue": "72"
+            "displayValue": "71"
           }
         },
         {
           "score": {
-            "value": 72,
+            "value": 70,
             "format": "absolute",
-            "displayValue": "72"
+            "displayValue": "70"
           }
         },
         {
           "score": {
-            "value": 72,
+            "value": 73,
             "format": "absolute",
-            "displayValue": "72"
+            "displayValue": "73"
           }
         }
       ]
@@ -2774,24 +2928,24 @@
         "hometown": "Dallas, Texas"
       },
       "position": {
-        "value": 43,
+        "value": 45,
         "format": "absolute",
-        "displayValue": "T42"
+        "displayValue": "T45"
       },
       "toPar": {
-        "value": 6,
+        "value": 7,
         "format": "absolute",
-        "displayValue": "+6"
+        "displayValue": "+7"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 12,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "12"
       },
       "toParToday": {
-        "value": 3,
+        "value": 1,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "+1"
       },
       "totalScore": {
         "value": 216,
@@ -2824,47 +2978,53 @@
     },
     {
       "player": {
-        "identifier": "61522",
-        "firstName": "Michael",
-        "lastName": "Brennan",
+        "identifier": "34362",
+        "firstName": "Laurie",
+        "lastName": "Canter",
         "country": {
-          "code": "usa",
-          "name": "United States of America",
+          "code": "eng",
+          "name": "England",
           "flag": {
             "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
+            "identifier": "global/mobile/flags/eng"
           }
         },
         "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Leesburg, Va."
+        "isPastChampion": false
       },
       "position": {
-        "value": 44,
+        "value": 46,
         "format": "absolute",
-        "displayValue": "T42"
+        "displayValue": "T45"
       },
       "toPar": {
-        "value": 6,
+        "value": 7,
         "format": "absolute",
-        "displayValue": "+6"
+        "displayValue": "+7"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 9,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "9"
       },
       "toParToday": {
-        "value": 3,
+        "value": 2,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "+2"
       },
       "totalScore": {
-        "value": 216,
+        "value": 215,
         "format": "absolute",
-        "displayValue": "216"
+        "displayValue": "215"
       },
       "roundScores": [
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        },
         {
           "score": {
             "value": 72,
@@ -2878,21 +3038,14 @@
             "format": "absolute",
             "displayValue": "71"
           }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
         }
       ]
     },
     {
       "player": {
-        "identifier": "34256",
-        "firstName": "Andrew",
-        "lastName": "Putnam",
+        "identifier": "51977",
+        "firstName": "Max",
+        "lastName": "Greyserman",
         "country": {
           "code": "usa",
           "name": "United States of America",
@@ -2903,139 +3056,7 @@
         },
         "isAmateur": false,
         "isPastChampion": false,
-        "hometown": "Lakewood, Wash."
-      },
-      "position": {
-        "value": 45,
-        "format": "absolute",
-        "displayValue": "T42"
-      },
-      "toPar": {
-        "value": 6,
-        "format": "absolute",
-        "displayValue": "+6"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 4,
-        "format": "absolute",
-        "displayValue": "+4"
-      },
-      "totalScore": {
-        "value": 216,
-        "format": "absolute",
-        "displayValue": "216"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        },
-        {
-          "score": {
-            "value": 68,
-            "format": "absolute",
-            "displayValue": "68"
-          }
-        },
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "33597",
-        "firstName": "Harry",
-        "lastName": "Higgs",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Dallas, Texas"
-      },
-      "position": {
-        "value": 46,
-        "format": "absolute",
-        "displayValue": "T42"
-      },
-      "toPar": {
-        "value": 6,
-        "format": "absolute",
-        "displayValue": "+6"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 7,
-        "format": "absolute",
-        "displayValue": "+7"
-      },
-      "totalScore": {
-        "value": 216,
-        "format": "absolute",
-        "displayValue": "216"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 68,
-            "format": "absolute",
-            "displayValue": "68"
-          }
-        },
-        {
-          "score": {
-            "value": 77,
-            "format": "absolute",
-            "displayValue": "77"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "59095",
-        "firstName": "Chris",
-        "lastName": "Gotterup",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Little Silver, N.J."
+        "hometown": "Short Hills, N.J."
       },
       "position": {
         "value": 47,
@@ -3043,9 +3064,9 @@
         "displayValue": "T47"
       },
       "toPar": {
-        "value": 7,
+        "value": 8,
         "format": "absolute",
-        "displayValue": "+7"
+        "displayValue": "+8"
       },
       "holesThrough": {
         "value": 18,
@@ -3053,23 +3074,16 @@
         "displayValue": "F"
       },
       "toParToday": {
-        "value": 3,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+3"
+        "displayValue": "E"
       },
       "totalScore": {
-        "value": 217,
+        "value": 288,
         "format": "absolute",
-        "displayValue": "217"
+        "displayValue": "288"
       },
       "roundScores": [
-        {
-          "score": {
-            "value": 75,
-            "format": "absolute",
-            "displayValue": "75"
-          }
-        },
         {
           "score": {
             "value": 69,
@@ -3083,79 +3097,28 @@
             "format": "absolute",
             "displayValue": "73"
           }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "52215",
-        "firstName": "Robert",
-        "lastName": "MacIntyre",
-        "country": {
-          "code": "sco",
-          "name": "Scotland",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/sco"
+        },
+        {
+          "score": {
+            "value": 76,
+            "format": "absolute",
+            "displayValue": "76"
           }
         },
-        "isAmateur": false,
-        "isPastChampion": false
-      },
-      "position": {
-        "value": 48,
-        "format": "absolute",
-        "displayValue": "T47"
-      },
-      "toPar": {
-        "value": 7,
-        "format": "absolute",
-        "displayValue": "+7"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "totalScore": {
-        "value": 217,
-        "format": "absolute",
-        "displayValue": "217"
-      },
-      "roundScores": [
         {
           "score": {
             "value": 70,
             "format": "absolute",
             "displayValue": "70"
           }
-        },
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
         }
       ]
     },
     {
       "player": {
-        "identifier": "66701",
-        "firstName": "Jackson",
-        "lastName": "Koivun",
+        "identifier": "60004",
+        "firstName": "Jacob",
+        "lastName": "Bridgeman",
         "country": {
           "code": "usa",
           "name": "United States of America",
@@ -3164,41 +3127,41 @@
             "identifier": "global/mobile/flags/usa"
           }
         },
-        "isAmateur": true,
+        "isAmateur": false,
         "isPastChampion": false,
-        "hometown": "Chapel Hill, N.C."
+        "hometown": "Greenville, S.C."
       },
       "position": {
-        "value": 49,
+        "value": 48,
         "format": "absolute",
         "displayValue": "T47"
       },
       "toPar": {
-        "value": 7,
+        "value": 8,
         "format": "absolute",
-        "displayValue": "+7"
+        "displayValue": "+8"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 17,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "17"
       },
       "toParToday": {
-        "value": 4,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+4"
+        "displayValue": "E"
       },
       "totalScore": {
-        "value": 217,
+        "value": 218,
         "format": "absolute",
-        "displayValue": "217"
+        "displayValue": "218"
       },
       "roundScores": [
         {
           "score": {
-            "value": 72,
+            "value": 73,
             "format": "absolute",
-            "displayValue": "72"
+            "displayValue": "73"
           }
         },
         {
@@ -3235,24 +3198,24 @@
         "hometown": "Jacksonville Beach, Fla."
       },
       "position": {
-        "value": 50,
+        "value": 49,
         "format": "absolute",
         "displayValue": "T47"
       },
       "toPar": {
-        "value": 7,
+        "value": 8,
         "format": "absolute",
-        "displayValue": "+7"
+        "displayValue": "+8"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 14,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "14"
       },
       "toParToday": {
-        "value": 4,
+        "value": 1,
         "format": "absolute",
-        "displayValue": "+4"
+        "displayValue": "+1"
       },
       "totalScore": {
         "value": 217,
@@ -3285,104 +3248,39 @@
     },
     {
       "player": {
-        "identifier": "64594",
-        "firstName": "Angel",
-        "lastName": "Hidalgo",
+        "identifier": "52215",
+        "firstName": "Robert",
+        "lastName": "MacIntyre",
         "country": {
-          "code": "esp",
-          "name": "Spain",
+          "code": "sco",
+          "name": "Scotland",
           "flag": {
             "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/esp"
+            "identifier": "global/mobile/flags/sco"
           }
         },
         "isAmateur": false,
         "isPastChampion": false
       },
       "position": {
-        "value": 51,
+        "value": 50,
         "format": "absolute",
         "displayValue": "T47"
       },
       "toPar": {
-        "value": 7,
+        "value": 8,
         "format": "absolute",
-        "displayValue": "+7"
+        "displayValue": "+8"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 14,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "14"
       },
       "toParToday": {
-        "value": 4,
+        "value": 1,
         "format": "absolute",
-        "displayValue": "+4"
-      },
-      "totalScore": {
-        "value": 217,
-        "format": "absolute",
-        "displayValue": "217"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 69,
-            "format": "absolute",
-            "displayValue": "69"
-          }
-        },
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        },
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "29936",
-        "firstName": "Ryan",
-        "lastName": "Fox",
-        "country": {
-          "code": "nzl",
-          "name": "New Zealand",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/nzl"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false
-      },
-      "position": {
-        "value": 52,
-        "format": "absolute",
-        "displayValue": "T47"
-      },
-      "toPar": {
-        "value": 7,
-        "format": "absolute",
-        "displayValue": "+7"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 4,
-        "format": "absolute",
-        "displayValue": "+4"
+        "displayValue": "+1"
       },
       "totalScore": {
         "value": 217,
@@ -3399,31 +3297,163 @@
         },
         {
           "score": {
-            "value": 73,
+            "value": 74,
             "format": "absolute",
-            "displayValue": "73"
+            "displayValue": "74"
           }
         },
         {
           "score": {
-            "value": 74,
+            "value": 73,
             "format": "absolute",
-            "displayValue": "74"
+            "displayValue": "73"
           }
         }
       ]
     },
     {
       "player": {
-        "identifier": "52955",
-        "firstName": "Ludvig",
-        "lastName": "\u00c5berg",
+        "identifier": "59095",
+        "firstName": "Chris",
+        "lastName": "Gotterup",
         "country": {
-          "code": "swe",
-          "name": "Sweden",
+          "code": "usa",
+          "name": "United States of America",
           "flag": {
             "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/swe"
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Little Silver, N.J."
+      },
+      "position": {
+        "value": 51,
+        "format": "absolute",
+        "displayValue": "T47"
+      },
+      "toPar": {
+        "value": 8,
+        "format": "absolute",
+        "displayValue": "+8"
+      },
+      "holesThrough": {
+        "value": 14,
+        "format": "absolute",
+        "displayValue": "14"
+      },
+      "toParToday": {
+        "value": 1,
+        "format": "absolute",
+        "displayValue": "+1"
+      },
+      "totalScore": {
+        "value": 217,
+        "format": "absolute",
+        "displayValue": "217"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 75,
+            "format": "absolute",
+            "displayValue": "75"
+          }
+        },
+        {
+          "score": {
+            "value": 69,
+            "format": "absolute",
+            "displayValue": "69"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "33597",
+        "firstName": "Harry",
+        "lastName": "Higgs",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Dallas, Texas"
+      },
+      "position": {
+        "value": 52,
+        "format": "absolute",
+        "displayValue": "T47"
+      },
+      "toPar": {
+        "value": 8,
+        "format": "absolute",
+        "displayValue": "+8"
+      },
+      "holesThrough": {
+        "value": 13,
+        "format": "absolute",
+        "displayValue": "13"
+      },
+      "toParToday": {
+        "value": 2,
+        "format": "absolute",
+        "displayValue": "+2"
+      },
+      "totalScore": {
+        "value": 216,
+        "format": "absolute",
+        "displayValue": "216"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 68,
+            "format": "absolute",
+            "displayValue": "68"
+          }
+        },
+        {
+          "score": {
+            "value": 77,
+            "format": "absolute",
+            "displayValue": "77"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "50497",
+        "firstName": "Adrien",
+        "lastName": "Dumont de Chassart",
+        "country": {
+          "code": "bel",
+          "name": "Belgium",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/bel"
           }
         },
         "isAmateur": false,
@@ -3432,12 +3462,12 @@
       "position": {
         "value": 53,
         "format": "absolute",
-        "displayValue": "T47"
+        "displayValue": "T53"
       },
       "toPar": {
-        "value": 7,
+        "value": 9,
         "format": "absolute",
-        "displayValue": "+7"
+        "displayValue": "+9"
       },
       "holesThrough": {
         "value": 18,
@@ -3445,80 +3475,14 @@
         "displayValue": "F"
       },
       "toParToday": {
-        "value": 6,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "+6"
+        "displayValue": "E"
       },
       "totalScore": {
-        "value": 217,
+        "value": 289,
         "format": "absolute",
-        "displayValue": "217"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 69,
-            "format": "absolute",
-            "displayValue": "69"
-          }
-        },
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        },
-        {
-          "score": {
-            "value": 76,
-            "format": "absolute",
-            "displayValue": "76"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "63454",
-        "firstName": "Johnny",
-        "lastName": "Keefer",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "San Antonio, Texas"
-      },
-      "position": {
-        "value": 54,
-        "format": "absolute",
-        "displayValue": "T47"
-      },
-      "toPar": {
-        "value": 7,
-        "format": "absolute",
-        "displayValue": "+7"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 6,
-        "format": "absolute",
-        "displayValue": "+6"
-      },
-      "totalScore": {
-        "value": 217,
-        "format": "absolute",
-        "displayValue": "217"
+        "displayValue": "289"
       },
       "roundScores": [
         {
@@ -3526,6 +3490,20 @@
             "value": 71,
             "format": "absolute",
             "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 77,
+            "format": "absolute",
+            "displayValue": "77"
           }
         },
         {
@@ -3533,211 +3511,6 @@
             "value": 70,
             "format": "absolute",
             "displayValue": "70"
-          }
-        },
-        {
-          "score": {
-            "value": 76,
-            "format": "absolute",
-            "displayValue": "76"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "60004",
-        "firstName": "Jacob",
-        "lastName": "Bridgeman",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Greenville, S.C."
-      },
-      "position": {
-        "value": 55,
-        "format": "absolute",
-        "displayValue": "T55"
-      },
-      "toPar": {
-        "value": 8,
-        "format": "absolute",
-        "displayValue": "+8"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 4,
-        "format": "absolute",
-        "displayValue": "+4"
-      },
-      "totalScore": {
-        "value": 218,
-        "format": "absolute",
-        "displayValue": "218"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
-        },
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "70698",
-        "firstName": "Marek",
-        "lastName": "Fleming",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": true,
-        "isPastChampion": false,
-        "hometown": "Houston, Texas"
-      },
-      "position": {
-        "value": 56,
-        "format": "absolute",
-        "displayValue": "T55"
-      },
-      "toPar": {
-        "value": 8,
-        "format": "absolute",
-        "displayValue": "+8"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 4,
-        "format": "absolute",
-        "displayValue": "+4"
-      },
-      "totalScore": {
-        "value": 218,
-        "format": "absolute",
-        "displayValue": "218"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        },
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        },
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "51977",
-        "firstName": "Max",
-        "lastName": "Greyserman",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Short Hills, N.J."
-      },
-      "position": {
-        "value": 57,
-        "format": "absolute",
-        "displayValue": "T55"
-      },
-      "toPar": {
-        "value": 8,
-        "format": "absolute",
-        "displayValue": "+8"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 6,
-        "format": "absolute",
-        "displayValue": "+6"
-      },
-      "totalScore": {
-        "value": 218,
-        "format": "absolute",
-        "displayValue": "218"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 69,
-            "format": "absolute",
-            "displayValue": "69"
-          }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
-        },
-        {
-          "score": {
-            "value": 76,
-            "format": "absolute",
-            "displayValue": "76"
           }
         }
       ]
@@ -3760,24 +3533,24 @@
         "hometown": "Chico, Calif."
       },
       "position": {
-        "value": 58,
+        "value": 54,
         "format": "absolute",
-        "displayValue": "T55"
+        "displayValue": "T53"
       },
       "toPar": {
-        "value": 8,
+        "value": 9,
         "format": "absolute",
-        "displayValue": "+8"
+        "displayValue": "+9"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 17,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "17"
       },
       "toParToday": {
-        "value": 6,
+        "value": 1,
         "format": "absolute",
-        "displayValue": "+6"
+        "displayValue": "+1"
       },
       "totalScore": {
         "value": 218,
@@ -3810,534 +3583,9 @@
     },
     {
       "player": {
-        "identifier": "57365",
-        "firstName": "Spencer",
-        "lastName": "Tibbits",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Vancouver, Wash."
-      },
-      "position": {
-        "value": 59,
-        "format": "absolute",
-        "displayValue": "T55"
-      },
-      "toPar": {
-        "value": 8,
-        "format": "absolute",
-        "displayValue": "+8"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 6,
-        "format": "absolute",
-        "displayValue": "+6"
-      },
-      "totalScore": {
-        "value": 218,
-        "format": "absolute",
-        "displayValue": "218"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 68,
-            "format": "absolute",
-            "displayValue": "68"
-          }
-        },
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        },
-        {
-          "score": {
-            "value": 76,
-            "format": "absolute",
-            "displayValue": "76"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "57864",
-        "firstName": "Jackson",
-        "lastName": "Van Paris",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Pinehurst, N.C."
-      },
-      "position": {
-        "value": 60,
-        "format": "absolute",
-        "displayValue": "T55"
-      },
-      "toPar": {
-        "value": 8,
-        "format": "absolute",
-        "displayValue": "+8"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 6,
-        "format": "absolute",
-        "displayValue": "+6"
-      },
-      "totalScore": {
-        "value": 218,
-        "format": "absolute",
-        "displayValue": "218"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 70,
-            "format": "absolute",
-            "displayValue": "70"
-          }
-        },
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        },
-        {
-          "score": {
-            "value": 76,
-            "format": "absolute",
-            "displayValue": "76"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "57869",
-        "firstName": "Ben",
-        "lastName": "James",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Milford, Conn."
-      },
-      "position": {
-        "value": 61,
-        "format": "absolute",
-        "displayValue": "T55"
-      },
-      "toPar": {
-        "value": 8,
-        "format": "absolute",
-        "displayValue": "+8"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 7,
-        "format": "absolute",
-        "displayValue": "+7"
-      },
-      "totalScore": {
-        "value": 218,
-        "format": "absolute",
-        "displayValue": "218"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 69,
-            "format": "absolute",
-            "displayValue": "69"
-          }
-        },
-        {
-          "score": {
-            "value": 72,
-            "format": "absolute",
-            "displayValue": "72"
-          }
-        },
-        {
-          "score": {
-            "value": 77,
-            "format": "absolute",
-            "displayValue": "77"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "64054",
-        "firstName": "Caleb",
-        "lastName": "Surratt",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Charlotte, N.C."
-      },
-      "position": {
-        "value": 62,
-        "format": "absolute",
-        "displayValue": "T62"
-      },
-      "toPar": {
-        "value": 9,
-        "format": "absolute",
-        "displayValue": "+9"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 5,
-        "format": "absolute",
-        "displayValue": "+5"
-      },
-      "totalScore": {
-        "value": 219,
-        "format": "absolute",
-        "displayValue": "219"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 75,
-            "format": "absolute",
-            "displayValue": "75"
-          }
-        },
-        {
-          "score": {
-            "value": 69,
-            "format": "absolute",
-            "displayValue": "69"
-          }
-        },
-        {
-          "score": {
-            "value": 75,
-            "format": "absolute",
-            "displayValue": "75"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "51349",
-        "firstName": "Nico",
-        "lastName": "Echavarria",
-        "country": {
-          "code": "col",
-          "name": "Colombia",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/col"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false
-      },
-      "position": {
-        "value": 63,
-        "format": "absolute",
-        "displayValue": "T62"
-      },
-      "toPar": {
-        "value": 9,
-        "format": "absolute",
-        "displayValue": "+9"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 5,
-        "format": "absolute",
-        "displayValue": "+5"
-      },
-      "totalScore": {
-        "value": 219,
-        "format": "absolute",
-        "displayValue": "219"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
-        },
-        {
-          "score": {
-            "value": 75,
-            "format": "absolute",
-            "displayValue": "75"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "50497",
-        "firstName": "Adrien",
-        "lastName": "Dumont de Chassart",
-        "country": {
-          "code": "bel",
-          "name": "Belgium",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/bel"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false
-      },
-      "position": {
-        "value": 64,
-        "format": "absolute",
-        "displayValue": "T62"
-      },
-      "toPar": {
-        "value": 9,
-        "format": "absolute",
-        "displayValue": "+9"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 7,
-        "format": "absolute",
-        "displayValue": "+7"
-      },
-      "totalScore": {
-        "value": 219,
-        "format": "absolute",
-        "displayValue": "219"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 77,
-            "format": "absolute",
-            "displayValue": "77"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "32839",
-        "firstName": "Hideki",
-        "lastName": "Matsuyama",
-        "country": {
-          "code": "jpn",
-          "name": "Japan",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/jpn"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false
-      },
-      "position": {
-        "value": 65,
-        "format": "absolute",
-        "displayValue": "T65"
-      },
-      "toPar": {
-        "value": 11,
-        "format": "absolute",
-        "displayValue": "+11"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 7,
-        "format": "absolute",
-        "displayValue": "+7"
-      },
-      "totalScore": {
-        "value": 221,
-        "format": "absolute",
-        "displayValue": "221"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
-        },
-        {
-          "score": {
-            "value": 77,
-            "format": "absolute",
-            "displayValue": "77"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "63807",
-        "firstName": "Neal",
-        "lastName": "Shipley",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Pittsburgh, Pa."
-      },
-      "position": {
-        "value": 66,
-        "format": "absolute",
-        "displayValue": "T65"
-      },
-      "toPar": {
-        "value": 11,
-        "format": "absolute",
-        "displayValue": "+11"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 7,
-        "format": "absolute",
-        "displayValue": "+7"
-      },
-      "totalScore": {
-        "value": 221,
-        "format": "absolute",
-        "displayValue": "221"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 71,
-            "format": "absolute",
-            "displayValue": "71"
-          }
-        },
-        {
-          "score": {
-            "value": 73,
-            "format": "absolute",
-            "displayValue": "73"
-          }
-        },
-        {
-          "score": {
-            "value": 77,
-            "format": "absolute",
-            "displayValue": "77"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "70734",
-        "firstName": "Eric",
-        "lastName": "Lee",
+        "identifier": "70698",
+        "firstName": "Marek",
+        "lastName": "Fleming",
         "country": {
           "code": "usa",
           "name": "United States of America",
@@ -4348,98 +3596,32 @@
         },
         "isAmateur": true,
         "isPastChampion": false,
-        "hometown": "Fullerton, Calif."
+        "hometown": "Houston, Texas"
       },
       "position": {
-        "value": 67,
+        "value": 55,
         "format": "absolute",
-        "displayValue": "67"
+        "displayValue": "T53"
       },
       "toPar": {
-        "value": 12,
+        "value": 9,
         "format": "absolute",
-        "displayValue": "+12"
+        "displayValue": "+9"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 17,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "17"
       },
       "toParToday": {
-        "value": 8,
+        "value": 1,
         "format": "absolute",
-        "displayValue": "+8"
+        "displayValue": "+1"
       },
       "totalScore": {
-        "value": 222,
+        "value": 218,
         "format": "absolute",
-        "displayValue": "222"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 74,
-            "format": "absolute",
-            "displayValue": "74"
-          }
-        },
-        {
-          "score": {
-            "value": 70,
-            "format": "absolute",
-            "displayValue": "70"
-          }
-        },
-        {
-          "score": {
-            "value": 78,
-            "format": "absolute",
-            "displayValue": "78"
-          }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "36699",
-        "firstName": "Patrick",
-        "lastName": "Rodgers",
-        "country": {
-          "code": "usa",
-          "name": "United States of America",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/usa"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": false,
-        "hometown": "Avon, Ind."
-      },
-      "position": {
-        "value": 68,
-        "format": "absolute",
-        "displayValue": "T68"
-      },
-      "toPar": {
-        "value": 13,
-        "format": "absolute",
-        "displayValue": "+13"
-      },
-      "holesThrough": {
-        "value": 18,
-        "format": "absolute",
-        "displayValue": "F"
-      },
-      "toParToday": {
-        "value": 10,
-        "format": "absolute",
-        "displayValue": "+10"
-      },
-      "totalScore": {
-        "value": 223,
-        "format": "absolute",
-        "displayValue": "223"
+        "displayValue": "218"
       },
       "roundScores": [
         {
@@ -4451,25 +3633,25 @@
         },
         {
           "score": {
-            "value": 71,
+            "value": 72,
             "format": "absolute",
-            "displayValue": "71"
+            "displayValue": "72"
           }
         },
         {
           "score": {
-            "value": 80,
+            "value": 74,
             "format": "absolute",
-            "displayValue": "80"
+            "displayValue": "74"
           }
         }
       ]
     },
     {
       "player": {
-        "identifier": "34098",
-        "firstName": "Russell",
-        "lastName": "Henley",
+        "identifier": "34021",
+        "firstName": "Bud",
+        "lastName": "Cauley",
         "country": {
           "code": "usa",
           "name": "United States of America",
@@ -4480,32 +3662,98 @@
         },
         "isAmateur": false,
         "isPastChampion": false,
-        "hometown": "Columbus, Ga."
+        "hometown": "Palm Beach Gardens, Fla."
       },
       "position": {
-        "value": 69,
+        "value": 56,
         "format": "absolute",
-        "displayValue": "T68"
+        "displayValue": "T53"
       },
       "toPar": {
-        "value": 13,
+        "value": 9,
         "format": "absolute",
-        "displayValue": "+13"
+        "displayValue": "+9"
       },
       "holesThrough": {
-        "value": 18,
+        "value": 11,
         "format": "absolute",
-        "displayValue": "F"
+        "displayValue": "11"
       },
       "toParToday": {
-        "value": 10,
+        "value": 3,
         "format": "absolute",
-        "displayValue": "+10"
+        "displayValue": "+3"
       },
       "totalScore": {
-        "value": 223,
+        "value": 216,
         "format": "absolute",
-        "displayValue": "223"
+        "displayValue": "216"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        },
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        },
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "63121",
+        "firstName": "William",
+        "lastName": "Mouw",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Chino Hills, Calif."
+      },
+      "position": {
+        "value": 57,
+        "format": "absolute",
+        "displayValue": "T53"
+      },
+      "toPar": {
+        "value": 9,
+        "format": "absolute",
+        "displayValue": "+9"
+      },
+      "holesThrough": {
+        "value": 8,
+        "format": "absolute",
+        "displayValue": "8"
+      },
+      "toParToday": {
+        "value": 5,
+        "format": "absolute",
+        "displayValue": "+5"
+      },
+      "totalScore": {
+        "value": 214,
+        "format": "absolute",
+        "displayValue": "214"
       },
       "roundScores": [
         {
@@ -4517,16 +3765,16 @@
         },
         {
           "score": {
-            "value": 73,
+            "value": 70,
             "format": "absolute",
-            "displayValue": "73"
+            "displayValue": "70"
           }
         },
         {
           "score": {
-            "value": 80,
+            "value": 74,
             "format": "absolute",
-            "displayValue": "80"
+            "displayValue": "74"
           }
         }
       ]
@@ -4549,14 +3797,14 @@
         "hometown": "Jupiter, Fla."
       },
       "position": {
-        "value": 70,
+        "value": 58,
         "format": "absolute",
-        "displayValue": "70"
+        "displayValue": "T58"
       },
       "toPar": {
-        "value": 14,
+        "value": 10,
         "format": "absolute",
-        "displayValue": "+14"
+        "displayValue": "+10"
       },
       "holesThrough": {
         "value": 18,
@@ -4564,14 +3812,14 @@
         "displayValue": "F"
       },
       "toParToday": {
-        "value": 10,
+        "value": -4,
         "format": "absolute",
-        "displayValue": "+10"
+        "displayValue": "-4"
       },
       "totalScore": {
-        "value": 224,
+        "value": 290,
         "format": "absolute",
-        "displayValue": "224"
+        "displayValue": "290"
       },
       "roundScores": [
         {
@@ -4594,6 +3842,574 @@
             "format": "absolute",
             "displayValue": "80"
           }
+        },
+        {
+          "score": {
+            "value": 66,
+            "format": "absolute",
+            "displayValue": "66"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "51349",
+        "firstName": "Nico",
+        "lastName": "Echavarria",
+        "country": {
+          "code": "col",
+          "name": "Colombia",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/col"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false
+      },
+      "position": {
+        "value": 59,
+        "format": "absolute",
+        "displayValue": "T58"
+      },
+      "toPar": {
+        "value": 10,
+        "format": "absolute",
+        "displayValue": "+10"
+      },
+      "holesThrough": {
+        "value": 18,
+        "format": "absolute",
+        "displayValue": "F"
+      },
+      "toParToday": {
+        "value": 1,
+        "format": "absolute",
+        "displayValue": "+1"
+      },
+      "totalScore": {
+        "value": 290,
+        "format": "absolute",
+        "displayValue": "290"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        },
+        {
+          "score": {
+            "value": 75,
+            "format": "absolute",
+            "displayValue": "75"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "64594",
+        "firstName": "Angel",
+        "lastName": "Hidalgo",
+        "country": {
+          "code": "esp",
+          "name": "Spain",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/esp"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false
+      },
+      "position": {
+        "value": 60,
+        "format": "absolute",
+        "displayValue": "T58"
+      },
+      "toPar": {
+        "value": 10,
+        "format": "absolute",
+        "displayValue": "+10"
+      },
+      "holesThrough": {
+        "value": 15,
+        "format": "absolute",
+        "displayValue": "15"
+      },
+      "toParToday": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "totalScore": {
+        "value": 217,
+        "format": "absolute",
+        "displayValue": "217"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 69,
+            "format": "absolute",
+            "displayValue": "69"
+          }
+        },
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
+          }
+        },
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "57864",
+        "firstName": "Jackson",
+        "lastName": "Van Paris",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Pinehurst, N.C."
+      },
+      "position": {
+        "value": 61,
+        "format": "absolute",
+        "displayValue": "T61"
+      },
+      "toPar": {
+        "value": 11,
+        "format": "absolute",
+        "displayValue": "+11"
+      },
+      "holesThrough": {
+        "value": 18,
+        "format": "absolute",
+        "displayValue": "F"
+      },
+      "toParToday": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "totalScore": {
+        "value": 291,
+        "format": "absolute",
+        "displayValue": "291"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        },
+        {
+          "score": {
+            "value": 76,
+            "format": "absolute",
+            "displayValue": "76"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "57365",
+        "firstName": "Spencer",
+        "lastName": "Tibbits",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Vancouver, Wash."
+      },
+      "position": {
+        "value": 62,
+        "format": "absolute",
+        "displayValue": "T61"
+      },
+      "toPar": {
+        "value": 11,
+        "format": "absolute",
+        "displayValue": "+11"
+      },
+      "holesThrough": {
+        "value": 18,
+        "format": "absolute",
+        "displayValue": "F"
+      },
+      "toParToday": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "totalScore": {
+        "value": 291,
+        "format": "absolute",
+        "displayValue": "291"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 68,
+            "format": "absolute",
+            "displayValue": "68"
+          }
+        },
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
+          }
+        },
+        {
+          "score": {
+            "value": 76,
+            "format": "absolute",
+            "displayValue": "76"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "34256",
+        "firstName": "Andrew",
+        "lastName": "Putnam",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Lakewood, Wash."
+      },
+      "position": {
+        "value": 63,
+        "format": "absolute",
+        "displayValue": "T61"
+      },
+      "toPar": {
+        "value": 11,
+        "format": "absolute",
+        "displayValue": "+11"
+      },
+      "holesThrough": {
+        "value": 13,
+        "format": "absolute",
+        "displayValue": "13"
+      },
+      "toParToday": {
+        "value": 5,
+        "format": "absolute",
+        "displayValue": "+5"
+      },
+      "totalScore": {
+        "value": 216,
+        "format": "absolute",
+        "displayValue": "216"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
+          }
+        },
+        {
+          "score": {
+            "value": 68,
+            "format": "absolute",
+            "displayValue": "68"
+          }
+        },
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "57366",
+        "firstName": "Cameron",
+        "lastName": "Young",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Palm Beach Gardens, Fla."
+      },
+      "position": {
+        "value": 64,
+        "format": "absolute",
+        "displayValue": "T61"
+      },
+      "toPar": {
+        "value": 11,
+        "format": "absolute",
+        "displayValue": "+11"
+      },
+      "holesThrough": {
+        "value": 10,
+        "format": "absolute",
+        "displayValue": "10"
+      },
+      "toParToday": {
+        "value": 6,
+        "format": "absolute",
+        "displayValue": "+6"
+      },
+      "totalScore": {
+        "value": 215,
+        "format": "absolute",
+        "displayValue": "215"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        },
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "70734",
+        "firstName": "Eric",
+        "lastName": "Lee",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": true,
+        "isPastChampion": false,
+        "hometown": "Fullerton, Calif."
+      },
+      "position": {
+        "value": 65,
+        "format": "absolute",
+        "displayValue": "T65"
+      },
+      "toPar": {
+        "value": 13,
+        "format": "absolute",
+        "displayValue": "+13"
+      },
+      "holesThrough": {
+        "value": 18,
+        "format": "absolute",
+        "displayValue": "F"
+      },
+      "toParToday": {
+        "value": 1,
+        "format": "absolute",
+        "displayValue": "+1"
+      },
+      "totalScore": {
+        "value": 293,
+        "format": "absolute",
+        "displayValue": "293"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
+          }
+        },
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 78,
+            "format": "absolute",
+            "displayValue": "78"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "64054",
+        "firstName": "Caleb",
+        "lastName": "Surratt",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Charlotte, N.C."
+      },
+      "position": {
+        "value": 66,
+        "format": "absolute",
+        "displayValue": "T65"
+      },
+      "toPar": {
+        "value": 13,
+        "format": "absolute",
+        "displayValue": "+13"
+      },
+      "holesThrough": {
+        "value": 18,
+        "format": "absolute",
+        "displayValue": "F"
+      },
+      "toParToday": {
+        "value": 4,
+        "format": "absolute",
+        "displayValue": "+4"
+      },
+      "totalScore": {
+        "value": 293,
+        "format": "absolute",
+        "displayValue": "293"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 75,
+            "format": "absolute",
+            "displayValue": "75"
+          }
+        },
+        {
+          "score": {
+            "value": 69,
+            "format": "absolute",
+            "displayValue": "69"
+          }
+        },
+        {
+          "score": {
+            "value": 75,
+            "format": "absolute",
+            "displayValue": "75"
+          }
+        },
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
+          }
         }
       ]
     },
@@ -4615,14 +4431,14 @@
         "hometown": "Scarsdale, N.Y."
       },
       "position": {
-        "value": 71,
+        "value": 67,
         "format": "absolute",
-        "displayValue": "71"
+        "displayValue": "T67"
       },
       "toPar": {
-        "value": 15,
+        "value": 14,
         "format": "absolute",
-        "displayValue": "+15"
+        "displayValue": "+14"
       },
       "holesThrough": {
         "value": 18,
@@ -4630,14 +4446,14 @@
         "displayValue": "F"
       },
       "toParToday": {
-        "value": 12,
+        "value": -1,
         "format": "absolute",
-        "displayValue": "+12"
+        "displayValue": "-1"
       },
       "totalScore": {
-        "value": 225,
+        "value": 294,
         "format": "absolute",
-        "displayValue": "225"
+        "displayValue": "294"
       },
       "roundScores": [
         {
@@ -4659,6 +4475,304 @@
             "value": 82,
             "format": "absolute",
             "displayValue": "82"
+          }
+        },
+        {
+          "score": {
+            "value": 69,
+            "format": "absolute",
+            "displayValue": "69"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "34098",
+        "firstName": "Russell",
+        "lastName": "Henley",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Columbus, Ga."
+      },
+      "position": {
+        "value": 68,
+        "format": "absolute",
+        "displayValue": "T67"
+      },
+      "toPar": {
+        "value": 14,
+        "format": "absolute",
+        "displayValue": "+14"
+      },
+      "holesThrough": {
+        "value": 18,
+        "format": "absolute",
+        "displayValue": "F"
+      },
+      "toParToday": {
+        "value": 1,
+        "format": "absolute",
+        "displayValue": "+1"
+      },
+      "totalScore": {
+        "value": 294,
+        "format": "absolute",
+        "displayValue": "294"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        },
+        {
+          "score": {
+            "value": 80,
+            "format": "absolute",
+            "displayValue": "80"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "63807",
+        "firstName": "Neal",
+        "lastName": "Shipley",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Pittsburgh, Pa."
+      },
+      "position": {
+        "value": 69,
+        "format": "absolute",
+        "displayValue": "T67"
+      },
+      "toPar": {
+        "value": 14,
+        "format": "absolute",
+        "displayValue": "+14"
+      },
+      "holesThrough": {
+        "value": 18,
+        "format": "absolute",
+        "displayValue": "F"
+      },
+      "toParToday": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "totalScore": {
+        "value": 294,
+        "format": "absolute",
+        "displayValue": "294"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        },
+        {
+          "score": {
+            "value": 77,
+            "format": "absolute",
+            "displayValue": "77"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "32839",
+        "firstName": "Hideki",
+        "lastName": "Matsuyama",
+        "country": {
+          "code": "jpn",
+          "name": "Japan",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/jpn"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false
+      },
+      "position": {
+        "value": 70,
+        "format": "absolute",
+        "displayValue": "T67"
+      },
+      "toPar": {
+        "value": 14,
+        "format": "absolute",
+        "displayValue": "+14"
+      },
+      "holesThrough": {
+        "value": 18,
+        "format": "absolute",
+        "displayValue": "F"
+      },
+      "toParToday": {
+        "value": 3,
+        "format": "absolute",
+        "displayValue": "+3"
+      },
+      "totalScore": {
+        "value": 294,
+        "format": "absolute",
+        "displayValue": "294"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        },
+        {
+          "score": {
+            "value": 77,
+            "format": "absolute",
+            "displayValue": "77"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "36699",
+        "firstName": "Patrick",
+        "lastName": "Rodgers",
+        "country": {
+          "code": "usa",
+          "name": "United States of America",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/usa"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": false,
+        "hometown": "Avon, Ind."
+      },
+      "position": {
+        "value": 71,
+        "format": "absolute",
+        "displayValue": "71"
+      },
+      "toPar": {
+        "value": 17,
+        "format": "absolute",
+        "displayValue": "+17"
+      },
+      "holesThrough": {
+        "value": 18,
+        "format": "absolute",
+        "displayValue": "F"
+      },
+      "toParToday": {
+        "value": 4,
+        "format": "absolute",
+        "displayValue": "+4"
+      },
+      "totalScore": {
+        "value": 297,
+        "format": "absolute",
+        "displayValue": "297"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
+          }
+        },
+        {
+          "score": {
+            "value": 80,
+            "format": "absolute",
+            "displayValue": "80"
+          }
+        },
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
           }
         }
       ]
@@ -4686,9 +4800,9 @@
         "displayValue": "72"
       },
       "toPar": {
-        "value": 16,
+        "value": 18,
         "format": "absolute",
-        "displayValue": "+16"
+        "displayValue": "+18"
       },
       "holesThrough": {
         "value": 18,
@@ -4696,14 +4810,14 @@
         "displayValue": "F"
       },
       "toParToday": {
-        "value": 12,
+        "value": 2,
         "format": "absolute",
-        "displayValue": "+12"
+        "displayValue": "+2"
       },
       "totalScore": {
-        "value": 226,
+        "value": 298,
         "format": "absolute",
-        "displayValue": "226"
+        "displayValue": "298"
       },
       "roundScores": [
         {
@@ -4725,6 +4839,13 @@
             "value": 82,
             "format": "absolute",
             "displayValue": "82"
+          }
+        },
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
           }
         }
       ]
