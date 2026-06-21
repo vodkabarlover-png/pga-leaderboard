@@ -23,24 +23,24 @@
         "displayValue": "1"
       },
       "toPar": {
-        "value": -8,
+        "value": -7,
         "format": "absolute",
-        "displayValue": "-8"
+        "displayValue": "-7"
       },
       "holesThrough": {
-        "value": 16,
+        "value": 18,
         "format": "absolute",
-        "displayValue": "16"
+        "displayValue": "F"
       },
       "toParToday": {
-        "value": -1,
+        "value": 0,
         "format": "absolute",
-        "displayValue": "-1"
+        "displayValue": "E"
       },
       "totalScore": {
-        "value": 133,
+        "value": 203,
         "format": "absolute",
-        "displayValue": "133"
+        "displayValue": "203"
       },
       "roundScores": [
         {
@@ -55,6 +55,13 @@
             "value": 69,
             "format": "absolute",
             "displayValue": "69"
+          }
+        },
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
           }
         }
       ]
@@ -284,9 +291,9 @@
         "displayValue": "-1"
       },
       "holesThrough": {
-        "value": 17,
+        "value": 18,
         "format": "absolute",
-        "displayValue": "17"
+        "displayValue": "F"
       },
       "toParToday": {
         "value": 2,
@@ -294,9 +301,9 @@
         "displayValue": "+2"
       },
       "totalScore": {
-        "value": 137,
+        "value": 209,
         "format": "absolute",
-        "displayValue": "137"
+        "displayValue": "209"
       },
       "roundScores": [
         {
@@ -311,6 +318,13 @@
             "value": 69,
             "format": "absolute",
             "displayValue": "69"
+          }
+        },
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
           }
         }
       ]
@@ -540,9 +554,9 @@
         "displayValue": "E"
       },
       "holesThrough": {
-        "value": 17,
+        "value": 18,
         "format": "absolute",
-        "displayValue": "17"
+        "displayValue": "F"
       },
       "toParToday": {
         "value": 3,
@@ -550,9 +564,9 @@
         "displayValue": "+3"
       },
       "totalScore": {
-        "value": 137,
+        "value": 210,
         "format": "absolute",
-        "displayValue": "137"
+        "displayValue": "210"
       },
       "roundScores": [
         {
@@ -568,63 +582,12 @@
             "format": "absolute",
             "displayValue": "66"
           }
-        }
-      ]
-    },
-    {
-      "player": {
-        "identifier": "40098",
-        "firstName": "Matt",
-        "lastName": "Fitzpatrick",
-        "country": {
-          "code": "eng",
-          "name": "England",
-          "flag": {
-            "type": "imageCloudinary",
-            "identifier": "global/mobile/flags/eng"
-          }
-        },
-        "isAmateur": false,
-        "isPastChampion": true
-      },
-      "position": {
-        "value": 10,
-        "format": "absolute",
-        "displayValue": "T6"
-      },
-      "toPar": {
-        "value": 0,
-        "format": "absolute",
-        "displayValue": "E"
-      },
-      "holesThrough": {
-        "value": 16,
-        "format": "absolute",
-        "displayValue": "16"
-      },
-      "toParToday": {
-        "value": 3,
-        "format": "absolute",
-        "displayValue": "+3"
-      },
-      "totalScore": {
-        "value": 137,
-        "format": "absolute",
-        "displayValue": "137"
-      },
-      "roundScores": [
-        {
-          "score": {
-            "value": 67,
-            "format": "absolute",
-            "displayValue": "67"
-          }
         },
         {
           "score": {
-            "value": 70,
+            "value": 73,
             "format": "absolute",
-            "displayValue": "70"
+            "displayValue": "73"
           }
         }
       ]
@@ -646,9 +609,9 @@
         "isPastChampion": false
       },
       "position": {
-        "value": 11,
+        "value": 10,
         "format": "absolute",
-        "displayValue": "T11"
+        "displayValue": "T10"
       },
       "toPar": {
         "value": 1,
@@ -712,9 +675,9 @@
         "hometown": "La Canada, Calif."
       },
       "position": {
-        "value": 12,
+        "value": 11,
         "format": "absolute",
-        "displayValue": "T11"
+        "displayValue": "T10"
       },
       "toPar": {
         "value": 1,
@@ -756,6 +719,71 @@
             "value": 73,
             "format": "absolute",
             "displayValue": "73"
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "identifier": "40098",
+        "firstName": "Matt",
+        "lastName": "Fitzpatrick",
+        "country": {
+          "code": "eng",
+          "name": "England",
+          "flag": {
+            "type": "imageCloudinary",
+            "identifier": "global/mobile/flags/eng"
+          }
+        },
+        "isAmateur": false,
+        "isPastChampion": true
+      },
+      "position": {
+        "value": 12,
+        "format": "absolute",
+        "displayValue": "T10"
+      },
+      "toPar": {
+        "value": 1,
+        "format": "absolute",
+        "displayValue": "+1"
+      },
+      "holesThrough": {
+        "value": 18,
+        "format": "absolute",
+        "displayValue": "F"
+      },
+      "toParToday": {
+        "value": 4,
+        "format": "absolute",
+        "displayValue": "+4"
+      },
+      "totalScore": {
+        "value": 211,
+        "format": "absolute",
+        "displayValue": "211"
+      },
+      "roundScores": [
+        {
+          "score": {
+            "value": 67,
+            "format": "absolute",
+            "displayValue": "67"
+          }
+        },
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 74,
+            "format": "absolute",
+            "displayValue": "74"
           }
         }
       ]
