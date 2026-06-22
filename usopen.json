@@ -28,9 +28,9 @@
         "displayValue": "-4"
       },
       "holesThrough": {
-        "value": 15,
+        "value": 18,
         "format": "absolute",
-        "displayValue": "15"
+        "displayValue": "F"
       },
       "toParToday": {
         "value": 3,
@@ -38,9 +38,9 @@
         "displayValue": "+3"
       },
       "totalScore": {
-        "value": 203,
+        "value": 276,
         "format": "absolute",
-        "displayValue": "203"
+        "displayValue": "276"
       },
       "roundScores": [
         {
@@ -62,6 +62,13 @@
             "value": 70,
             "format": "absolute",
             "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
           }
         }
       ]
@@ -166,9 +173,9 @@
         "displayValue": "-1"
       },
       "holesThrough": {
-        "value": 15,
+        "value": 18,
         "format": "absolute",
-        "displayValue": "15"
+        "displayValue": "F"
       },
       "toParToday": {
         "value": 0,
@@ -176,9 +183,9 @@
         "displayValue": "E"
       },
       "totalScore": {
-        "value": 209,
+        "value": 279,
         "format": "absolute",
-        "displayValue": "209"
+        "displayValue": "279"
       },
       "roundScores": [
         {
@@ -200,6 +207,13 @@
             "value": 72,
             "format": "absolute",
             "displayValue": "72"
+          }
+        },
+        {
+          "score": {
+            "value": 70,
+            "format": "absolute",
+            "displayValue": "70"
           }
         }
       ]
@@ -378,9 +392,9 @@
         "displayValue": "E"
       },
       "holesThrough": {
-        "value": 15,
+        "value": 18,
         "format": "absolute",
-        "displayValue": "15"
+        "displayValue": "F"
       },
       "toParToday": {
         "value": 1,
@@ -388,9 +402,9 @@
         "displayValue": "+1"
       },
       "totalScore": {
-        "value": 209,
+        "value": 280,
         "format": "absolute",
-        "displayValue": "209"
+        "displayValue": "280"
       },
       "roundScores": [
         {
@@ -412,6 +426,13 @@
             "value": 69,
             "format": "absolute",
             "displayValue": "69"
+          }
+        },
+        {
+          "score": {
+            "value": 71,
+            "format": "absolute",
+            "displayValue": "71"
           }
         }
       ]
@@ -661,9 +682,9 @@
         "displayValue": "+1"
       },
       "holesThrough": {
-        "value": 17,
+        "value": 18,
         "format": "absolute",
-        "displayValue": "17"
+        "displayValue": "F"
       },
       "toParToday": {
         "value": 2,
@@ -671,9 +692,9 @@
         "displayValue": "+2"
       },
       "totalScore": {
-        "value": 209,
+        "value": 281,
         "format": "absolute",
-        "displayValue": "209"
+        "displayValue": "281"
       },
       "roundScores": [
         {
@@ -688,6 +709,13 @@
             "value": 69,
             "format": "absolute",
             "displayValue": "69"
+          }
+        },
+        {
+          "score": {
+            "value": 72,
+            "format": "absolute",
+            "displayValue": "72"
           }
         },
         {
@@ -1088,9 +1116,9 @@
         "displayValue": "+2"
       },
       "holesThrough": {
-        "value": 16,
+        "value": 18,
         "format": "absolute",
-        "displayValue": "16"
+        "displayValue": "F"
       },
       "toParToday": {
         "value": 3,
@@ -1098,9 +1126,9 @@
         "displayValue": "+3"
       },
       "totalScore": {
-        "value": 209,
+        "value": 282,
         "format": "absolute",
-        "displayValue": "209"
+        "displayValue": "282"
       },
       "roundScores": [
         {
@@ -1122,6 +1150,13 @@
             "value": 70,
             "format": "absolute",
             "displayValue": "70"
+          }
+        },
+        {
+          "score": {
+            "value": 73,
+            "format": "absolute",
+            "displayValue": "73"
           }
         }
       ]
@@ -2170,9 +2205,9 @@
         "displayValue": "+5"
       },
       "holesThrough": {
-        "value": 17,
+        "value": 18,
         "format": "absolute",
-        "displayValue": "17"
+        "displayValue": "F"
       },
       "toParToday": {
         "value": 5,
@@ -2180,9 +2215,9 @@
         "displayValue": "+5"
       },
       "totalScore": {
-        "value": 210,
+        "value": 285,
         "format": "absolute",
-        "displayValue": "210"
+        "displayValue": "285"
       },
       "roundScores": [
         {
@@ -2204,6 +2239,13 @@
             "value": 67,
             "format": "absolute",
             "displayValue": "67"
+          }
+        },
+        {
+          "score": {
+            "value": 75,
+            "format": "absolute",
+            "displayValue": "75"
           }
         }
       ]
