@@ -13,7 +13,7 @@ def fetch_open():
     with open("Leaderboard.json", "w") as f:
         json.dump(data, f, indent=2)
 
-    print("Updated Leaderboard.json")
+    print("Updated The open.json")
 
 while True:
     try:
