@@ -1,6 +1,0 @@
-C:\Users\Simon>Cd C:\Users\Simon\pga-leaderboard
-
-python fetch_us_open.py      (running scraper)
-
-push.bat                        (Git auto push) in separate command
-
