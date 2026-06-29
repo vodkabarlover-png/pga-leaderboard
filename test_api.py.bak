@@ -1,7 +1,0 @@
-import requests
-
-url = "https://www.theopen.com/api/leaderboard"
-
-r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
-print("Status:", r.status_code)
-print("Content:", r.text[:500])
