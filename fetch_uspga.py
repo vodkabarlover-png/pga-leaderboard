@@ -1,26 +1,25 @@
 import requests
 import json
-import time
 
-# PGA Championship tournament ID for 2026
 TOURNAMENT_ID = "R2026023"
-CLEAN_ID = TOURNAMENT_ID[3:]  # removes the "R20" prefix
+CLEAN_ID = TOURNAMENT_ID[3:]
 URL = f"https://statdata.pgatour.com/r/{CLEAN_ID}/leaderboard-v2.json"
 
 def fetch_uspga():
+    print("Fetching PGA Championship leaderboard...")
+
+    players = []
+
     try:
-        print("Fetching PGA Championship leaderboard...")
         response = requests.get(URL, timeout=10)
         response.raise_for_status()
 
         data = response.json()
-        players = data.get("leaderboard", {}).get("players", [])
+        players_raw = data.get("leaderboard", {}).get("players", [])
 
-        output = []
-
-        for p in players:
+        for p in players_raw:
             rounds = p.get("rounds", [])
-            output.append({
+            players.append({
                 "pos": p.get("current_position", ""),
                 "name": f"{p['player_bio']['first_name']} {p['player_bio']['last_name']}",
                 "r1": rounds[0]["strokes"] if len(rounds) > 0 else "",
@@ -30,13 +29,14 @@ def fetch_uspga():
                 "total": p.get("total", "")
             })
 
-        with open("uspga.json", "w") as f:
-            json.dump({"players": output}, f, indent=2)
-
-        print("uspga.json updated successfully.")
-
     except Exception as e:
-        print("Error fetching PGA Championship data:", e)
+        print("USPGA API offline — writing empty file.")
+        players = []
+
+    with open("uspga.json", "w") as f:
+        json.dump({"players": players}, f, indent=2)
+
+    print("uspga.json updated successfully.")
 
 if __name__ == "__main__":
     fetch_uspga()
