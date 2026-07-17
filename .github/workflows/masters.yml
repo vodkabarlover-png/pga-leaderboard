@@ -1,16 +1,14 @@
-name: Update Masters Leaderboard
+name: Update Masters leaderboard
 
 on:
-  schedule:
-  #    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
-  update_masters:
+  update-masters:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -19,29 +17,15 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
-
-      - name: Show working directory
-        run: |
-          echo "Current directory:"
-          pwd
-          echo "Listing all files:"
-          ls -R
+        run: pip install requests
 
       - name: Run Masters scraper
-        run: |
-          python masters_fetch.py
+        run: python fetch_masters.py
 
-      - name: Switch to main branch
-        run: |
-          git checkout main
-
-      - name: Commit and push if changed
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add -A
-          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update Masters leaderboard"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add masters.json
+          git commit -m "Update Masters leaderboard" || exit 0
           git push
