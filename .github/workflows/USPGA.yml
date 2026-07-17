@@ -1,8 +1,8 @@
-name: Update US PGA Championship leaderboard
+name: Update USPGA leaderboard
 
 on:
   schedule:
- #   - cron: "*/5 * * * *"   # every 5 minutes
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -29,5 +29,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add uspga.json
-          git commit -m "Update US PGA Championship leaderboard" || exit 0
+          git commit -m "Update USPGA leaderboard" || exit 0
           git push
