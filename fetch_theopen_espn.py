@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-URL = "https://www.espn.co.uk/golf/leaderboard"
+URL = "https://www.espn.com/golf/leaderboard"
 
 def parse_score(value):
     value = value.strip()
@@ -25,7 +25,8 @@ def main():
 
     players = []
 
-    tbody = soup.find("tbody", class_="Table__TBODY")
+    # ESPN US uses <tbody> without special classes
+    tbody = soup.find("tbody")
     if not tbody:
         print("Could not locate ESPN leaderboard table")
         data = {"players": []}
