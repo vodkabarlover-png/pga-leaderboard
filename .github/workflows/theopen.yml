@@ -20,7 +20,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run The Open scraper (ESPN)
-        run:  python fetch_theopen_cbs.py
+        run:  python fetch_theopen_bbc.py
 
 
       - name: Commit and push
