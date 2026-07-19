@@ -22,7 +22,6 @@ def find_open_url():
 
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # Find any leaderboard link containing "open"
     for a in soup.find_all("a", href=True):
         href = a["href"].lower()
         if "open" in href and "leaderboard" in href:
@@ -62,15 +61,19 @@ def main():
 
     players = []
 
-    for row in tbody.find_all("tr"):
+    # CBS uses this class for ALL leaderboard rows (expanded + collapsed)
+    rows = tbody.find_all("tr", class_="GolfLeaderboard-bodyTr")
+
+    for row in rows:
         cells = row.find_all("td")
+
+        # Skip toggle-only rows
         if len(cells) < 12:
             continue
 
-        # Correct CBS 2026 column mapping
         position = cells[1].get_text(strip=True)
 
-        # Extract long player name only
+        # Extract long player name
         name_cell = cells[3]
         long_name = name_cell.find("span", class_="CellPlayerName--long")
         if long_name:
