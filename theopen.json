@@ -2,7 +2,7 @@
   "players": [
     {
       "position": "T1",
-      "name": "C. YoungCameron Young",
+      "name": "Cameron Young",
       "r1": 67,
       "r2": 67,
       "r3": 73,
@@ -11,7 +11,7 @@
     },
     {
       "position": "T1",
-      "name": "R. FoxRyan Fox",
+      "name": "Ryan Fox",
       "r1": 72,
       "r2": 68,
       "r3": 62,
@@ -20,7 +20,7 @@
     },
     {
       "position": "T3",
-      "name": "S. KimSi Woo Kim",
+      "name": "Si Woo Kim",
       "r1": 68,
       "r2": 67,
       "r3": 67,
@@ -29,7 +29,7 @@
     },
     {
       "position": "T3",
-      "name": "S. BurnsSam Burns",
+      "name": "Sam Burns",
       "r1": 73,
       "r2": 62,
       "r3": 65,
@@ -38,7 +38,7 @@
     },
     {
       "position": "T5",
-      "name": "L. HerbertLucas Herbert",
+      "name": "Lucas Herbert",
       "r1": 70,
       "r2": 62,
       "r3": 71,
