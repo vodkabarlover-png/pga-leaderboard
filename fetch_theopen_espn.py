@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-URL = "https://www.cbssports.com/golf/leaderboard/the-open/"
+URL = "https://www.cbssports.com/golf/leaderboard/major/the-open-championship/"
 
 def parse_score(value):
     value = value.strip()
