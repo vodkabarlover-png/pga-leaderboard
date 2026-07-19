@@ -1,7 +1,7 @@
 {
   "players": [
     {
-      "position": "T1",
+      "position": "1",
       "name": "Cameron Young",
       "r1": 67,
       "r2": 67,
@@ -10,7 +10,7 @@
       "total": 271
     },
     {
-      "position": "T1",
+      "position": "T2",
       "name": "Ryan Fox",
       "r1": 72,
       "r2": 68,
@@ -19,16 +19,7 @@
       "total": 202
     },
     {
-      "position": "T3",
-      "name": "Si Woo Kim",
-      "r1": 68,
-      "r2": 67,
-      "r3": 67,
-      "r4": null,
-      "total": 202
-    },
-    {
-      "position": "T3",
+      "position": "T2",
       "name": "Sam Burns",
       "r1": 73,
       "r2": 62,
@@ -37,13 +28,22 @@
       "total": 200
     },
     {
-      "position": "T5",
+      "position": "T4",
       "name": "Lucas Herbert",
       "r1": 70,
       "r2": 62,
       "r3": 71,
       "r4": null,
       "total": 203
+    },
+    {
+      "position": "T4",
+      "name": "Tommy Fleetwood",
+      "r1": 69,
+      "r2": 67,
+      "r3": 69,
+      "r4": 68,
+      "total": 273
     }
   ]
 }
