@@ -17,13 +17,6 @@ def parse_score(v):
         return None
 
 def extract_visible(cell):
-    """
-    BBC puts two spans in each score cell:
-    <span class='visually-hidden'>72</span>
-    <span aria-hidden='true'>72</span>
-
-    We ONLY want the visible one.
-    """
     span = cell.find("span", {"aria-hidden": "true"})
     if span:
         return parse_score(span.get_text())
@@ -35,8 +28,8 @@ def main():
 
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    # BBC leaderboard rows
-    rows = soup.find_all("tr", class_="ssrcss-1if37cu-TableRowBody")
+    # BBC changes class names daily — match ANY class containing "TableRowBody"
+    rows = soup.find_all("tr", class_=lambda c: c and "TableRowBody" in c)
 
     players = []
 
@@ -45,12 +38,31 @@ def main():
         if len(cells) < 11:
             continue
 
-        # Position
         position = cells[0].get_text(strip=True)
 
-        # Full name
         name_span = cells[1].find("span", class_="ssrcss-1qmgl5j-FullName")
         name = name_span.get_text(strip=True) if name_span else cells[1].get_text(strip=True)
 
-        # Round scores (visible only)
-        r1 = extract_visible
+        r1 = extract_visible(cells[5])
+        r2 = extract_visible(cells[6])
+        r3 = extract_visible(cells[7])
+        r4 = extract_visible(cells[8])
+        total = extract_visible(cells[10])
+
+        players.append({
+            "position": position,
+            "name": name,
+            "r1": r1,
+            "r2": r2,
+            "r3": r3,
+            "r4": r4,
+            "total": total
+        })
+
+    with open("theopen.json", "w") as f:
+        json.dump({"players": players}, f, indent=2)
+
+    print(f"BBC Open leaderboard updated successfully with {len(players)} players.")
+
+if __name__ == "__main__":
+    main()
