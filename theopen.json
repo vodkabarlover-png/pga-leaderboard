@@ -1,49 +1,49 @@
 {
   "players": [
     {
-      "position": "",
-      "name": "1",
-      "r1": null,
-      "r2": null,
-      "r3": -9,
+      "position": "T1",
+      "name": "C. YoungCameron Young",
+      "r1": 67,
+      "r2": 67,
+      "r3": 73,
+      "r4": 64,
+      "total": 271
+    },
+    {
+      "position": "T1",
+      "name": "R. FoxRyan Fox",
+      "r1": 72,
+      "r2": 68,
+      "r3": 62,
       "r4": null,
-      "total": -6
+      "total": 202
     },
     {
-      "position": "",
-      "name": "T2",
-      "r1": null,
-      "r2": null,
-      "r3": -8,
-      "r4": 13,
-      "total": null
+      "position": "T3",
+      "name": "S. KimSi Woo Kim",
+      "r1": 68,
+      "r2": 67,
+      "r3": 67,
+      "r4": null,
+      "total": 202
     },
     {
-      "position": "",
-      "name": "T2",
-      "r1": null,
-      "r2": null,
-      "r3": -8,
-      "r4": 13,
-      "total": null
+      "position": "T3",
+      "name": "S. BurnsSam Burns",
+      "r1": 73,
+      "r2": 62,
+      "r3": 65,
+      "r4": null,
+      "total": 200
     },
     {
-      "position": "",
-      "name": "T2",
-      "r1": null,
-      "r2": null,
-      "r3": -8,
-      "r4": 13,
-      "total": 2
-    },
-    {
-      "position": "",
-      "name": "T5",
-      "r1": null,
-      "r2": null,
-      "r3": -7,
-      "r4": 14,
-      "total": null
+      "position": "T5",
+      "name": "L. HerbertLucas Herbert",
+      "r1": 70,
+      "r2": 62,
+      "r3": 71,
+      "r4": null,
+      "total": 203
     }
   ]
 }
